@@ -1,0 +1,7292 @@
+[
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q1",
+    "arquitetura": "booleano",
+    "document_ids": [
+      "CF_cf_art_3205"
+    ],
+    "ranked": false,
+    "total_recuperado": 1,
+    "latencia_segundos": 0.02445098600003348,
+    "latencias_repeticoes_segundos": [
+      0.025379937000025166,
+      0.02445098600003348,
+      0.026185639000004812,
+      0.024238836999984414,
+      0.023769445999960226
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q1",
+    "arquitetura": "bm25",
+    "results": [
+      {
+        "document_id": "CF_cf_art_1109",
+        "score": 17.353670632824148,
+        "rank": 1
+      },
+      {
+        "document_id": "CF_cf_art_1107",
+        "score": 15.990069372487792,
+        "rank": 2
+      },
+      {
+        "document_id": "CF_cf_art_3212",
+        "score": 15.751395694624458,
+        "rank": 3
+      },
+      {
+        "document_id": "CF_cf_art_1119",
+        "score": 15.567568007717028,
+        "rank": 4
+      },
+      {
+        "document_id": "CF_cf_art_532",
+        "score": 14.36252551746012,
+        "rank": 5
+      },
+      {
+        "document_id": "CF_cf_art_1105",
+        "score": 14.215374397592537,
+        "rank": 6
+      },
+      {
+        "document_id": "CF_cf_art_1108",
+        "score": 12.450382097370483,
+        "rank": 7
+      },
+      {
+        "document_id": "CF_cf_art_442",
+        "score": 12.241543683629068,
+        "rank": 8
+      },
+      {
+        "document_id": "CF_cf_art_237",
+        "score": 11.90901845342659,
+        "rank": 9
+      },
+      {
+        "document_id": "CF_cf_art_1031",
+        "score": 11.638089027026233,
+        "rank": 10
+      },
+      {
+        "document_id": "CF_cf_art_1044",
+        "score": 11.379212649590258,
+        "rank": 11
+      },
+      {
+        "document_id": "CF_cf_art_981",
+        "score": 11.313316856530442,
+        "rank": 12
+      },
+      {
+        "document_id": "CF_cf_art_1162",
+        "score": 11.30623151666228,
+        "rank": 13
+      },
+      {
+        "document_id": "CF_cf_art_955",
+        "score": 11.177854583951065,
+        "rank": 14
+      },
+      {
+        "document_id": "CF_cf_art_1126",
+        "score": 11.169951212908908,
+        "rank": 15
+      },
+      {
+        "document_id": "CF_cf_art_1807",
+        "score": 11.15432511779764,
+        "rank": 16
+      },
+      {
+        "document_id": "CF_cf_art_1104",
+        "score": 11.124426058756114,
+        "rank": 17
+      },
+      {
+        "document_id": "CF_cf_art_1188",
+        "score": 11.11348276864193,
+        "rank": 18
+      },
+      {
+        "document_id": "CF_cf_art_884",
+        "score": 11.08218442661276,
+        "rank": 19
+      },
+      {
+        "document_id": "CF_cf_art_1189",
+        "score": 10.991886791099251,
+        "rank": 20
+      },
+      {
+        "document_id": "CF_cf_art_1199",
+        "score": 10.96847442161218,
+        "rank": 21
+      },
+      {
+        "document_id": "CF_cf_art_443",
+        "score": 10.965230140298488,
+        "rank": 22
+      },
+      {
+        "document_id": "CF_cf_art_1708",
+        "score": 10.692814421195589,
+        "rank": 23
+      },
+      {
+        "document_id": "CF_cf_art_948",
+        "score": 10.604480560865664,
+        "rank": 24
+      },
+      {
+        "document_id": "CF_cf_art_206",
+        "score": 10.564122581421643,
+        "rank": 25
+      },
+      {
+        "document_id": "CF_cf_art_1396",
+        "score": 10.447583743015098,
+        "rank": 26
+      },
+      {
+        "document_id": "CF_cf_art_1128",
+        "score": 10.433559999748635,
+        "rank": 27
+      },
+      {
+        "document_id": "CF_cf_art_878",
+        "score": 10.41085652095279,
+        "rank": 28
+      },
+      {
+        "document_id": "CF_cf_art_993",
+        "score": 10.380669986520623,
+        "rank": 29
+      },
+      {
+        "document_id": "CF_cf_art_1707",
+        "score": 10.228513100095988,
+        "rank": 30
+      },
+      {
+        "document_id": "CF_cf_art_243",
+        "score": 10.223866285815998,
+        "rank": 31
+      },
+      {
+        "document_id": "CF_cf_art_1117",
+        "score": 10.138815760381284,
+        "rank": 32
+      },
+      {
+        "document_id": "CF_cf_art_1810",
+        "score": 10.107246189091889,
+        "rank": 33
+      },
+      {
+        "document_id": "CF_cf_art_844",
+        "score": 10.035534311437523,
+        "rank": 34
+      },
+      {
+        "document_id": "CF_cf_art_1041",
+        "score": 10.026430595243554,
+        "rank": 35
+      },
+      {
+        "document_id": "CF_cf_art_950",
+        "score": 9.977126010819779,
+        "rank": 36
+      },
+      {
+        "document_id": "CF_cf_art_3211",
+        "score": 9.91366298818096,
+        "rank": 37
+      },
+      {
+        "document_id": "CF_cf_art_816",
+        "score": 9.909726935169585,
+        "rank": 38
+      },
+      {
+        "document_id": "CF_cf_art_1183",
+        "score": 9.826338655359251,
+        "rank": 39
+      },
+      {
+        "document_id": "CF_cf_art_241",
+        "score": 9.647459454138332,
+        "rank": 40
+      },
+      {
+        "document_id": "CF_cf_art_2145",
+        "score": 9.614486620962188,
+        "rank": 41
+      },
+      {
+        "document_id": "CF_cf_art_1122",
+        "score": 9.603436048040265,
+        "rank": 42
+      },
+      {
+        "document_id": "CF_cf_art_1028",
+        "score": 9.590083015357958,
+        "rank": 43
+      },
+      {
+        "document_id": "CF_cf_art_2361",
+        "score": 9.567770922636688,
+        "rank": 44
+      },
+      {
+        "document_id": "CF_cf_art_951",
+        "score": 9.500805272679907,
+        "rank": 45
+      },
+      {
+        "document_id": "CF_cf_art_1106",
+        "score": 9.494787156799877,
+        "rank": 46
+      },
+      {
+        "document_id": "CF_cf_art_3206",
+        "score": 9.467359319143545,
+        "rank": 47
+      },
+      {
+        "document_id": "CF_cf_art_1790",
+        "score": 9.447447238801049,
+        "rank": 48
+      },
+      {
+        "document_id": "CF_cf_art_1184",
+        "score": 9.389186654089768,
+        "rank": 49
+      },
+      {
+        "document_id": "CF_cf_art_838",
+        "score": 9.385848212464822,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "CF_cf_art_1109",
+      "CF_cf_art_1107",
+      "CF_cf_art_3212",
+      "CF_cf_art_1119",
+      "CF_cf_art_532",
+      "CF_cf_art_1105",
+      "CF_cf_art_1108",
+      "CF_cf_art_442",
+      "CF_cf_art_237",
+      "CF_cf_art_1031",
+      "CF_cf_art_1044",
+      "CF_cf_art_981",
+      "CF_cf_art_1162",
+      "CF_cf_art_955",
+      "CF_cf_art_1126",
+      "CF_cf_art_1807",
+      "CF_cf_art_1104",
+      "CF_cf_art_1188",
+      "CF_cf_art_884",
+      "CF_cf_art_1189",
+      "CF_cf_art_1199",
+      "CF_cf_art_443",
+      "CF_cf_art_1708",
+      "CF_cf_art_948",
+      "CF_cf_art_206",
+      "CF_cf_art_1396",
+      "CF_cf_art_1128",
+      "CF_cf_art_878",
+      "CF_cf_art_993",
+      "CF_cf_art_1707",
+      "CF_cf_art_243",
+      "CF_cf_art_1117",
+      "CF_cf_art_1810",
+      "CF_cf_art_844",
+      "CF_cf_art_1041",
+      "CF_cf_art_950",
+      "CF_cf_art_3211",
+      "CF_cf_art_816",
+      "CF_cf_art_1183",
+      "CF_cf_art_241",
+      "CF_cf_art_2145",
+      "CF_cf_art_1122",
+      "CF_cf_art_1028",
+      "CF_cf_art_2361",
+      "CF_cf_art_951",
+      "CF_cf_art_1106",
+      "CF_cf_art_3206",
+      "CF_cf_art_1790",
+      "CF_cf_art_1184",
+      "CF_cf_art_838"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.006285325999897395,
+    "latencias_repeticoes_segundos": [
+      0.006789315999981227,
+      0.006367907000026207,
+      0.006200092000085533,
+      0.006285325999897395,
+      0.006118012000001727
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q1",
+    "arquitetura": "vetorial",
+    "results": [
+      {
+        "document_id": "CF_cf_art_3205",
+        "score": 0.7659958600997925,
+        "rank": 1
+      },
+      {
+        "document_id": "CF_cf_art_1439",
+        "score": 0.742114245891571,
+        "rank": 2
+      },
+      {
+        "document_id": "CF_cf_art_643",
+        "score": 0.7363559007644653,
+        "rank": 3
+      },
+      {
+        "document_id": "CF_cf_art_927",
+        "score": 0.7345889210700989,
+        "rank": 4
+      },
+      {
+        "document_id": "CF_cf_art_3253",
+        "score": 0.7051649689674377,
+        "rank": 5
+      },
+      {
+        "document_id": "CF_cf_art_1431",
+        "score": 0.6969882249832153,
+        "rank": 6
+      },
+      {
+        "document_id": "CF_cf_art_3268",
+        "score": 0.6969306468963623,
+        "rank": 7
+      },
+      {
+        "document_id": "CF_cf_art_3819",
+        "score": 0.6936568021774292,
+        "rank": 8
+      },
+      {
+        "document_id": "CF_cf_art_532",
+        "score": 0.6900646090507507,
+        "rank": 9
+      },
+      {
+        "document_id": "CF_cf_art_487",
+        "score": 0.6895038485527039,
+        "rank": 10
+      },
+      {
+        "document_id": "CF_cf_art_1744",
+        "score": 0.6891414523124695,
+        "rank": 11
+      },
+      {
+        "document_id": "CF_cf_art_427",
+        "score": 0.6871417164802551,
+        "rank": 12
+      },
+      {
+        "document_id": "CF_cf_art_3221",
+        "score": 0.6868218183517456,
+        "rank": 13
+      },
+      {
+        "document_id": "CF_cf_art_1126",
+        "score": 0.6864831447601318,
+        "rank": 14
+      },
+      {
+        "document_id": "CF_cf_art_242",
+        "score": 0.6861971616744995,
+        "rank": 15
+      },
+      {
+        "document_id": "CF_cf_art_3206",
+        "score": 0.6850168108940125,
+        "rank": 16
+      },
+      {
+        "document_id": "CF_cf_art_2148",
+        "score": 0.6831920146942139,
+        "rank": 17
+      },
+      {
+        "document_id": "CF_cf_art_3139",
+        "score": 0.6826604008674622,
+        "rank": 18
+      },
+      {
+        "document_id": "CF_cf_art_1721",
+        "score": 0.6820290088653564,
+        "rank": 19
+      },
+      {
+        "document_id": "CF_cf_art_1006",
+        "score": 0.680508553981781,
+        "rank": 20
+      },
+      {
+        "document_id": "CF_cf_art_2156",
+        "score": 0.6801321506500244,
+        "rank": 21
+      },
+      {
+        "document_id": "CF_cf_art_3207",
+        "score": 0.6784916520118713,
+        "rank": 22
+      },
+      {
+        "document_id": "CF_cf_art_1162",
+        "score": 0.6767573952674866,
+        "rank": 23
+      },
+      {
+        "document_id": "CF_cf_art_443",
+        "score": 0.6762667894363403,
+        "rank": 24
+      },
+      {
+        "document_id": "CF_cf_art_1122",
+        "score": 0.6732731461524963,
+        "rank": 25
+      },
+      {
+        "document_id": "CF_cf_art_957",
+        "score": 0.6729357242584229,
+        "rank": 26
+      },
+      {
+        "document_id": "CF_cf_art_449",
+        "score": 0.6726862192153931,
+        "rank": 27
+      },
+      {
+        "document_id": "CF_cf_art_3873",
+        "score": 0.6719558238983154,
+        "rank": 28
+      },
+      {
+        "document_id": "CF_cf_art_1412",
+        "score": 0.6710948348045349,
+        "rank": 29
+      },
+      {
+        "document_id": "CF_cf_art_631",
+        "score": 0.6677581667900085,
+        "rank": 30
+      },
+      {
+        "document_id": "CF_cf_art_2190",
+        "score": 0.6670016646385193,
+        "rank": 31
+      },
+      {
+        "document_id": "CF_cf_art_1127",
+        "score": 0.6668305993080139,
+        "rank": 32
+      },
+      {
+        "document_id": "CF_cf_art_752",
+        "score": 0.6663597822189331,
+        "rank": 33
+      },
+      {
+        "document_id": "CF_cf_art_1009",
+        "score": 0.664452075958252,
+        "rank": 34
+      },
+      {
+        "document_id": "CF_cf_art_441",
+        "score": 0.6631028056144714,
+        "rank": 35
+      },
+      {
+        "document_id": "CF_cf_art_2678",
+        "score": 0.6626732349395752,
+        "rank": 36
+      },
+      {
+        "document_id": "CF_cf_art_978",
+        "score": 0.6626138687133789,
+        "rank": 37
+      },
+      {
+        "document_id": "CF_cf_art_2194",
+        "score": 0.6619237065315247,
+        "rank": 38
+      },
+      {
+        "document_id": "CF_cf_art_1810",
+        "score": 0.6611478924751282,
+        "rank": 39
+      },
+      {
+        "document_id": "CF_cf_art_657",
+        "score": 0.6610884666442871,
+        "rank": 40
+      },
+      {
+        "document_id": "CF_cf_art_1105",
+        "score": 0.6603399515151978,
+        "rank": 41
+      },
+      {
+        "document_id": "CF_cf_art_1123",
+        "score": 0.658522367477417,
+        "rank": 42
+      },
+      {
+        "document_id": "CF_cf_art_3872",
+        "score": 0.6582549810409546,
+        "rank": 43
+      },
+      {
+        "document_id": "CF_cf_art_13",
+        "score": 0.6570563316345215,
+        "rank": 44
+      },
+      {
+        "document_id": "CF_cf_art_1180",
+        "score": 0.6570164561271667,
+        "rank": 45
+      },
+      {
+        "document_id": "CF_cf_art_3087",
+        "score": 0.6564094424247742,
+        "rank": 46
+      },
+      {
+        "document_id": "CF_cf_art_3895",
+        "score": 0.6557894945144653,
+        "rank": 47
+      },
+      {
+        "document_id": "CF_cf_art_2206",
+        "score": 0.6544712781906128,
+        "rank": 48
+      },
+      {
+        "document_id": "CF_cf_art_3265",
+        "score": 0.652566134929657,
+        "rank": 49
+      },
+      {
+        "document_id": "CF_cf_art_852",
+        "score": 0.6510503888130188,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "CF_cf_art_3205",
+      "CF_cf_art_1439",
+      "CF_cf_art_643",
+      "CF_cf_art_927",
+      "CF_cf_art_3253",
+      "CF_cf_art_1431",
+      "CF_cf_art_3268",
+      "CF_cf_art_3819",
+      "CF_cf_art_532",
+      "CF_cf_art_487",
+      "CF_cf_art_1744",
+      "CF_cf_art_427",
+      "CF_cf_art_3221",
+      "CF_cf_art_1126",
+      "CF_cf_art_242",
+      "CF_cf_art_3206",
+      "CF_cf_art_2148",
+      "CF_cf_art_3139",
+      "CF_cf_art_1721",
+      "CF_cf_art_1006",
+      "CF_cf_art_2156",
+      "CF_cf_art_3207",
+      "CF_cf_art_1162",
+      "CF_cf_art_443",
+      "CF_cf_art_1122",
+      "CF_cf_art_957",
+      "CF_cf_art_449",
+      "CF_cf_art_3873",
+      "CF_cf_art_1412",
+      "CF_cf_art_631",
+      "CF_cf_art_2190",
+      "CF_cf_art_1127",
+      "CF_cf_art_752",
+      "CF_cf_art_1009",
+      "CF_cf_art_441",
+      "CF_cf_art_2678",
+      "CF_cf_art_978",
+      "CF_cf_art_2194",
+      "CF_cf_art_1810",
+      "CF_cf_art_657",
+      "CF_cf_art_1105",
+      "CF_cf_art_1123",
+      "CF_cf_art_3872",
+      "CF_cf_art_13",
+      "CF_cf_art_1180",
+      "CF_cf_art_3087",
+      "CF_cf_art_3895",
+      "CF_cf_art_2206",
+      "CF_cf_art_3265",
+      "CF_cf_art_852"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.011396924999985458,
+    "latencias_repeticoes_segundos": [
+      0.01334878199998002,
+      0.013157809999938763,
+      0.011355933999993795,
+      0.011396924999985458,
+      0.011206195999989177
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q2",
+    "arquitetura": "booleano",
+    "document_ids": [
+      "CF_cf_art_293",
+      "CF_cf_art_402",
+      "CF_cf_art_403",
+      "CF_cf_art_439",
+      "CF_cf_art_517",
+      "CF_cf_art_518",
+      "CF_cf_art_651",
+      "CF_cf_art_709",
+      "CF_cf_art_710",
+      "CF_cf_art_2759",
+      "CF_cf_art_2797",
+      "CF_cf_art_2798",
+      "CF_cf_art_2845",
+      "CF_cf_art_2889",
+      "CF_cf_art_2894",
+      "CF_cf_art_2900",
+      "CF_cf_art_2901",
+      "CF_cf_art_2903",
+      "CF_cf_art_2904",
+      "CF_cf_art_2906",
+      "CF_cf_art_2910",
+      "CF_cf_art_2950",
+      "CF_cf_art_2951",
+      "CF_cf_art_2952",
+      "CF_cf_art_3067",
+      "CF_cf_art_3075",
+      "CF_cf_art_3205",
+      "CF_cf_art_3462",
+      "CF_cf_art_3480",
+      "CF_cf_art_3482",
+      "CF_cf_art_3483"
+    ],
+    "ranked": false,
+    "total_recuperado": 31,
+    "latencia_segundos": 0.028455027000063637,
+    "latencias_repeticoes_segundos": [
+      0.028228216999991673,
+      0.028455027000063637,
+      0.028378226999961953,
+      0.03283268400002726,
+      0.03972809399999733
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q2",
+    "arquitetura": "bm25",
+    "results": [
+      {
+        "document_id": "CF_cf_art_3094",
+        "score": 22.336266816316407,
+        "rank": 1
+      },
+      {
+        "document_id": "CF_cf_art_30",
+        "score": 21.539799925352206,
+        "rank": 2
+      },
+      {
+        "document_id": "CF_cf_art_2951",
+        "score": 20.318515984695413,
+        "rank": 3
+      },
+      {
+        "document_id": "CF_cf_art_410",
+        "score": 19.89730345731466,
+        "rank": 4
+      },
+      {
+        "document_id": "CF_cf_art_2910",
+        "score": 18.597294388158712,
+        "rank": 5
+      },
+      {
+        "document_id": "CF_cf_art_402",
+        "score": 18.331708886043906,
+        "rank": 6
+      },
+      {
+        "document_id": "CF_cf_art_517",
+        "score": 17.37292094207342,
+        "rank": 7
+      },
+      {
+        "document_id": "CF_cf_art_2950",
+        "score": 17.298663425939548,
+        "rank": 8
+      },
+      {
+        "document_id": "CF_cf_art_3099",
+        "score": 17.057928045923884,
+        "rank": 9
+      },
+      {
+        "document_id": "CF_cf_art_2886",
+        "score": 16.907875598287113,
+        "rank": 10
+      },
+      {
+        "document_id": "CF_cf_art_3482",
+        "score": 16.756799494112308,
+        "rank": 11
+      },
+      {
+        "document_id": "CF_cf_art_3028",
+        "score": 16.750169894958876,
+        "rank": 12
+      },
+      {
+        "document_id": "CF_cf_art_3100",
+        "score": 16.71165580768283,
+        "rank": 13
+      },
+      {
+        "document_id": "CF_cf_art_130",
+        "score": 16.557877247409618,
+        "rank": 14
+      },
+      {
+        "document_id": "CF_cf_art_518",
+        "score": 16.280772574450555,
+        "rank": 15
+      },
+      {
+        "document_id": "CF_cf_art_2858",
+        "score": 16.18466136587911,
+        "rank": 16
+      },
+      {
+        "document_id": "CF_cf_art_3281",
+        "score": 15.93524844047137,
+        "rank": 17
+      },
+      {
+        "document_id": "CF_cf_art_771",
+        "score": 15.895727920193561,
+        "rank": 18
+      },
+      {
+        "document_id": "CF_cf_art_403",
+        "score": 15.738887903768491,
+        "rank": 19
+      },
+      {
+        "document_id": "CF_cf_art_3483",
+        "score": 15.586998857242428,
+        "rank": 20
+      },
+      {
+        "document_id": "CF_cf_art_2889",
+        "score": 15.569492861691701,
+        "rank": 21
+      },
+      {
+        "document_id": "CF_cf_art_1832",
+        "score": 15.416148749407142,
+        "rank": 22
+      },
+      {
+        "document_id": "CF_cf_art_3075",
+        "score": 15.403705334062309,
+        "rank": 23
+      },
+      {
+        "document_id": "CF_cf_art_2845",
+        "score": 15.389484905839698,
+        "rank": 24
+      },
+      {
+        "document_id": "CF_cf_art_131",
+        "score": 15.34251368051976,
+        "rank": 25
+      },
+      {
+        "document_id": "CF_cf_art_709",
+        "score": 15.33225424144715,
+        "rank": 26
+      },
+      {
+        "document_id": "CF_cf_art_385",
+        "score": 15.242345242827316,
+        "rank": 27
+      },
+      {
+        "document_id": "CF_cf_art_2874",
+        "score": 15.22897824459506,
+        "rank": 28
+      },
+      {
+        "document_id": "CF_cf_art_132",
+        "score": 14.976764239253502,
+        "rank": 29
+      },
+      {
+        "document_id": "CF_cf_art_3223",
+        "score": 14.86718874529292,
+        "rank": 30
+      },
+      {
+        "document_id": "CF_cf_art_3481",
+        "score": 14.822836312061831,
+        "rank": 31
+      },
+      {
+        "document_id": "CF_cf_art_2570",
+        "score": 14.790338502316908,
+        "rank": 32
+      },
+      {
+        "document_id": "CF_cf_art_133",
+        "score": 14.742632082085358,
+        "rank": 33
+      },
+      {
+        "document_id": "CF_cf_art_1964",
+        "score": 14.58516394688008,
+        "rank": 34
+      },
+      {
+        "document_id": "CF_cf_art_3588",
+        "score": 14.582062757291077,
+        "rank": 35
+      },
+      {
+        "document_id": "CF_cf_art_3600",
+        "score": 14.582062757291077,
+        "rank": 36
+      },
+      {
+        "document_id": "CF_cf_art_2939",
+        "score": 14.541343467023307,
+        "rank": 37
+      },
+      {
+        "document_id": "CF_cf_art_2878",
+        "score": 14.451293841686756,
+        "rank": 38
+      },
+      {
+        "document_id": "CF_cf_art_3601",
+        "score": 14.417899731145921,
+        "rank": 39
+      },
+      {
+        "document_id": "CF_cf_art_113",
+        "score": 14.411969630586642,
+        "rank": 40
+      },
+      {
+        "document_id": "CF_cf_art_2952",
+        "score": 14.296850527124707,
+        "rank": 41
+      },
+      {
+        "document_id": "CF_cf_art_2887",
+        "score": 14.280050190829588,
+        "rank": 42
+      },
+      {
+        "document_id": "CF_cf_art_3088",
+        "score": 14.273775659064315,
+        "rank": 43
+      },
+      {
+        "document_id": "CF_cf_art_1751",
+        "score": 14.245729531594744,
+        "rank": 44
+      },
+      {
+        "document_id": "CF_cf_art_1845",
+        "score": 14.18510567567929,
+        "rank": 45
+      },
+      {
+        "document_id": "CF_cf_art_2860",
+        "score": 14.098270960761912,
+        "rank": 46
+      },
+      {
+        "document_id": "CF_cf_art_2867",
+        "score": 13.908549595815105,
+        "rank": 47
+      },
+      {
+        "document_id": "CF_cf_art_386",
+        "score": 13.89140171066997,
+        "rank": 48
+      },
+      {
+        "document_id": "CF_cf_art_401",
+        "score": 13.8037140233283,
+        "rank": 49
+      },
+      {
+        "document_id": "CF_cf_art_2663",
+        "score": 13.613936283391952,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "CF_cf_art_3094",
+      "CF_cf_art_30",
+      "CF_cf_art_2951",
+      "CF_cf_art_410",
+      "CF_cf_art_2910",
+      "CF_cf_art_402",
+      "CF_cf_art_517",
+      "CF_cf_art_2950",
+      "CF_cf_art_3099",
+      "CF_cf_art_2886",
+      "CF_cf_art_3482",
+      "CF_cf_art_3028",
+      "CF_cf_art_3100",
+      "CF_cf_art_130",
+      "CF_cf_art_518",
+      "CF_cf_art_2858",
+      "CF_cf_art_3281",
+      "CF_cf_art_771",
+      "CF_cf_art_403",
+      "CF_cf_art_3483",
+      "CF_cf_art_2889",
+      "CF_cf_art_1832",
+      "CF_cf_art_3075",
+      "CF_cf_art_2845",
+      "CF_cf_art_131",
+      "CF_cf_art_709",
+      "CF_cf_art_385",
+      "CF_cf_art_2874",
+      "CF_cf_art_132",
+      "CF_cf_art_3223",
+      "CF_cf_art_3481",
+      "CF_cf_art_2570",
+      "CF_cf_art_133",
+      "CF_cf_art_1964",
+      "CF_cf_art_3588",
+      "CF_cf_art_3600",
+      "CF_cf_art_2939",
+      "CF_cf_art_2878",
+      "CF_cf_art_3601",
+      "CF_cf_art_113",
+      "CF_cf_art_2952",
+      "CF_cf_art_2887",
+      "CF_cf_art_3088",
+      "CF_cf_art_1751",
+      "CF_cf_art_1845",
+      "CF_cf_art_2860",
+      "CF_cf_art_2867",
+      "CF_cf_art_386",
+      "CF_cf_art_401",
+      "CF_cf_art_2663"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.008510088999969412,
+    "latencias_repeticoes_segundos": [
+      0.008727399000008518,
+      0.008513923999998951,
+      0.0075248579998969944,
+      0.008510088999969412,
+      0.0074457449999272285
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q2",
+    "arquitetura": "vetorial",
+    "results": [
+      {
+        "document_id": "CF_cf_art_3519",
+        "score": 0.7475531697273254,
+        "rank": 1
+      },
+      {
+        "document_id": "CF_cf_art_2515",
+        "score": 0.715980052947998,
+        "rank": 2
+      },
+      {
+        "document_id": "CF_cf_art_218",
+        "score": 0.7111330628395081,
+        "rank": 3
+      },
+      {
+        "document_id": "CF_cf_art_2520",
+        "score": 0.7100277543067932,
+        "rank": 4
+      },
+      {
+        "document_id": "CF_cf_art_577",
+        "score": 0.7083645462989807,
+        "rank": 5
+      },
+      {
+        "document_id": "CF_cf_art_203",
+        "score": 0.7033846974372864,
+        "rank": 6
+      },
+      {
+        "document_id": "CF_cf_art_219",
+        "score": 0.7032049298286438,
+        "rank": 7
+      },
+      {
+        "document_id": "CF_cf_art_9",
+        "score": 0.6967990398406982,
+        "rank": 8
+      },
+      {
+        "document_id": "CF_cf_art_2513",
+        "score": 0.6844274401664734,
+        "rank": 9
+      },
+      {
+        "document_id": "CF_cf_art_3",
+        "score": 0.6831426620483398,
+        "rank": 10
+      },
+      {
+        "document_id": "CF_cf_art_3704",
+        "score": 0.6808112859725952,
+        "rank": 11
+      },
+      {
+        "document_id": "CF_cf_art_205",
+        "score": 0.6795041561126709,
+        "rank": 12
+      },
+      {
+        "document_id": "CF_cf_art_126",
+        "score": 0.6755034923553467,
+        "rank": 13
+      },
+      {
+        "document_id": "CF_cf_art_3182",
+        "score": 0.674400269985199,
+        "rank": 14
+      },
+      {
+        "document_id": "CF_cf_art_3621",
+        "score": 0.6714411377906799,
+        "rank": 15
+      },
+      {
+        "document_id": "CF_cf_art_2510",
+        "score": 0.6712163686752319,
+        "rank": 16
+      },
+      {
+        "document_id": "CF_cf_art_202",
+        "score": 0.6650847792625427,
+        "rank": 17
+      },
+      {
+        "document_id": "CF_cf_art_2963",
+        "score": 0.6603564620018005,
+        "rank": 18
+      },
+      {
+        "document_id": "CF_cf_art_197",
+        "score": 0.6600231528282166,
+        "rank": 19
+      },
+      {
+        "document_id": "CF_cf_art_2545",
+        "score": 0.6592311859130859,
+        "rank": 20
+      },
+      {
+        "document_id": "CF_cf_art_1178",
+        "score": 0.6553305983543396,
+        "rank": 21
+      },
+      {
+        "document_id": "CF_cf_art_198",
+        "score": 0.6531289219856262,
+        "rank": 22
+      },
+      {
+        "document_id": "CF_cf_art_15",
+        "score": 0.651333212852478,
+        "rank": 23
+      },
+      {
+        "document_id": "CF_cf_art_128",
+        "score": 0.6441016793251038,
+        "rank": 24
+      },
+      {
+        "document_id": "CF_cf_art_3462",
+        "score": 0.6436378359794617,
+        "rank": 25
+      },
+      {
+        "document_id": "CF_cf_art_574",
+        "score": 0.6433583498001099,
+        "rank": 26
+      },
+      {
+        "document_id": "CF_cf_art_572",
+        "score": 0.6416016817092896,
+        "rank": 27
+      },
+      {
+        "document_id": "CF_cf_art_134",
+        "score": 0.6384292840957642,
+        "rank": 28
+      },
+      {
+        "document_id": "CF_cf_art_2942",
+        "score": 0.6375747919082642,
+        "rank": 29
+      },
+      {
+        "document_id": "CF_cf_art_20",
+        "score": 0.6373687982559204,
+        "rank": 30
+      },
+      {
+        "document_id": "CF_cf_art_2891",
+        "score": 0.6332107186317444,
+        "rank": 31
+      },
+      {
+        "document_id": "CF_cf_art_199",
+        "score": 0.6307018995285034,
+        "rank": 32
+      },
+      {
+        "document_id": "CF_cf_art_1571",
+        "score": 0.6306973099708557,
+        "rank": 33
+      },
+      {
+        "document_id": "CF_cf_art_3382",
+        "score": 0.6284797787666321,
+        "rank": 34
+      },
+      {
+        "document_id": "CF_cf_art_3940",
+        "score": 0.6266940832138062,
+        "rank": 35
+      },
+      {
+        "document_id": "CF_cf_art_8",
+        "score": 0.6259487867355347,
+        "rank": 36
+      },
+      {
+        "document_id": "CF_cf_art_282",
+        "score": 0.6228352785110474,
+        "rank": 37
+      },
+      {
+        "document_id": "CF_cf_art_1478",
+        "score": 0.6206552386283875,
+        "rank": 38
+      },
+      {
+        "document_id": "CF_cf_art_201",
+        "score": 0.6198965311050415,
+        "rank": 39
+      },
+      {
+        "document_id": "CF_cf_art_2901",
+        "score": 0.6183874607086182,
+        "rank": 40
+      },
+      {
+        "document_id": "CF_cf_art_2880",
+        "score": 0.6182236075401306,
+        "rank": 41
+      },
+      {
+        "document_id": "CF_cf_art_2939",
+        "score": 0.6171492338180542,
+        "rank": 42
+      },
+      {
+        "document_id": "CF_cf_art_1762",
+        "score": 0.6169148087501526,
+        "rank": 43
+      },
+      {
+        "document_id": "CF_cf_art_195",
+        "score": 0.6165605783462524,
+        "rank": 44
+      },
+      {
+        "document_id": "CF_cf_art_3056",
+        "score": 0.6153797507286072,
+        "rank": 45
+      },
+      {
+        "document_id": "CF_cf_art_2889",
+        "score": 0.6149811148643494,
+        "rank": 46
+      },
+      {
+        "document_id": "CF_cf_art_2863",
+        "score": 0.6140457391738892,
+        "rank": 47
+      },
+      {
+        "document_id": "CF_cf_art_3480",
+        "score": 0.6136286854743958,
+        "rank": 48
+      },
+      {
+        "document_id": "CF_cf_art_2957",
+        "score": 0.6127252578735352,
+        "rank": 49
+      },
+      {
+        "document_id": "CF_cf_art_1748",
+        "score": 0.6101551651954651,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "CF_cf_art_3519",
+      "CF_cf_art_2515",
+      "CF_cf_art_218",
+      "CF_cf_art_2520",
+      "CF_cf_art_577",
+      "CF_cf_art_203",
+      "CF_cf_art_219",
+      "CF_cf_art_9",
+      "CF_cf_art_2513",
+      "CF_cf_art_3",
+      "CF_cf_art_3704",
+      "CF_cf_art_205",
+      "CF_cf_art_126",
+      "CF_cf_art_3182",
+      "CF_cf_art_3621",
+      "CF_cf_art_2510",
+      "CF_cf_art_202",
+      "CF_cf_art_2963",
+      "CF_cf_art_197",
+      "CF_cf_art_2545",
+      "CF_cf_art_1178",
+      "CF_cf_art_198",
+      "CF_cf_art_15",
+      "CF_cf_art_128",
+      "CF_cf_art_3462",
+      "CF_cf_art_574",
+      "CF_cf_art_572",
+      "CF_cf_art_134",
+      "CF_cf_art_2942",
+      "CF_cf_art_20",
+      "CF_cf_art_2891",
+      "CF_cf_art_199",
+      "CF_cf_art_1571",
+      "CF_cf_art_3382",
+      "CF_cf_art_3940",
+      "CF_cf_art_8",
+      "CF_cf_art_282",
+      "CF_cf_art_1478",
+      "CF_cf_art_201",
+      "CF_cf_art_2901",
+      "CF_cf_art_2880",
+      "CF_cf_art_2939",
+      "CF_cf_art_1762",
+      "CF_cf_art_195",
+      "CF_cf_art_3056",
+      "CF_cf_art_2889",
+      "CF_cf_art_2863",
+      "CF_cf_art_3480",
+      "CF_cf_art_2957",
+      "CF_cf_art_1748"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.011361825000108183,
+    "latencias_repeticoes_segundos": [
+      0.011599810000006983,
+      0.011361825000108183,
+      0.011250508999978592,
+      0.01127829900008237,
+      0.012048179000089476
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q3",
+    "arquitetura": "booleano",
+    "document_ids": [
+      "CF_cf_art_129",
+      "CF_cf_art_130",
+      "CF_cf_art_131",
+      "CF_cf_art_132",
+      "CF_cf_art_133",
+      "CF_cf_art_139",
+      "CF_cf_art_158",
+      "CF_cf_art_176",
+      "CF_cf_art_177",
+      "CF_cf_art_293",
+      "CF_cf_art_314",
+      "CF_cf_art_382",
+      "CF_cf_art_406",
+      "CF_cf_art_439",
+      "CF_cf_art_519",
+      "CF_cf_art_541",
+      "CF_cf_art_555",
+      "CF_cf_art_560",
+      "CF_cf_art_572",
+      "CF_cf_art_609",
+      "CF_cf_art_639",
+      "CF_cf_art_640",
+      "CF_cf_art_649",
+      "CF_cf_art_651",
+      "CF_cf_art_680",
+      "CF_cf_art_681",
+      "CF_cf_art_682",
+      "CF_cf_art_683",
+      "CF_cf_art_684",
+      "CF_cf_art_685",
+      "CF_cf_art_696",
+      "CF_cf_art_698",
+      "CF_cf_art_700",
+      "CF_cf_art_704",
+      "CF_cf_art_705",
+      "CF_cf_art_708",
+      "CF_cf_art_712",
+      "CF_cf_art_713",
+      "CF_cf_art_716",
+      "CF_cf_art_717",
+      "CF_cf_art_724",
+      "CF_cf_art_725",
+      "CF_cf_art_726",
+      "CF_cf_art_727",
+      "CF_cf_art_728",
+      "CF_cf_art_729",
+      "CF_cf_art_730",
+      "CF_cf_art_731",
+      "CF_cf_art_732",
+      "CF_cf_art_733",
+      "CF_cf_art_734",
+      "CF_cf_art_736",
+      "CF_cf_art_739",
+      "CF_cf_art_740",
+      "CF_cf_art_741",
+      "CF_cf_art_743",
+      "CF_cf_art_744",
+      "CF_cf_art_1216",
+      "CF_cf_art_1328",
+      "CF_cf_art_1355",
+      "CF_cf_art_1528",
+      "CF_cf_art_1562",
+      "CF_cf_art_1563",
+      "CF_cf_art_1877",
+      "CF_cf_art_1916",
+      "CF_cf_art_1918",
+      "CF_cf_art_1974",
+      "CF_cf_art_1983",
+      "CF_cf_art_1987",
+      "CF_cf_art_2167",
+      "CF_cf_art_2313",
+      "CF_cf_art_2365",
+      "CF_cf_art_2366",
+      "CF_cf_art_2368",
+      "CF_cf_art_2417",
+      "CF_cf_art_2418",
+      "CF_cf_art_2425",
+      "CF_cf_art_2426",
+      "CF_cf_art_2427",
+      "CF_cf_art_2631",
+      "CF_cf_art_2634",
+      "CF_cf_art_2635",
+      "CF_cf_art_2662",
+      "CF_cf_art_2663",
+      "CF_cf_art_2671",
+      "CF_cf_art_2680",
+      "CF_cf_art_2681",
+      "CF_cf_art_2686",
+      "CF_cf_art_2697",
+      "CF_cf_art_2703",
+      "CF_cf_art_2709",
+      "CF_cf_art_2710",
+      "CF_cf_art_2711",
+      "CF_cf_art_2712",
+      "CF_cf_art_2716",
+      "CF_cf_art_2717",
+      "CF_cf_art_2727",
+      "CF_cf_art_2728",
+      "CF_cf_art_2731",
+      "CF_cf_art_2732",
+      "CF_cf_art_2733",
+      "CF_cf_art_2734",
+      "CF_cf_art_2735",
+      "CF_cf_art_2736",
+      "CF_cf_art_2737",
+      "CF_cf_art_2738",
+      "CF_cf_art_2739",
+      "CF_cf_art_2742",
+      "CF_cf_art_2743",
+      "CF_cf_art_2744",
+      "CF_cf_art_2745",
+      "CF_cf_art_2747",
+      "CF_cf_art_2749",
+      "CF_cf_art_2750",
+      "CF_cf_art_2751",
+      "CF_cf_art_2752",
+      "CF_cf_art_2759",
+      "CF_cf_art_2760",
+      "CF_cf_art_2766",
+      "CF_cf_art_2772",
+      "CF_cf_art_2773",
+      "CF_cf_art_2774",
+      "CF_cf_art_2775",
+      "CF_cf_art_2782",
+      "CF_cf_art_2783",
+      "CF_cf_art_2786",
+      "CF_cf_art_2790",
+      "CF_cf_art_2792",
+      "CF_cf_art_2799",
+      "CF_cf_art_2800",
+      "CF_cf_art_2801",
+      "CF_cf_art_2802",
+      "CF_cf_art_2803",
+      "CF_cf_art_2808",
+      "CF_cf_art_2815",
+      "CF_cf_art_2818",
+      "CF_cf_art_2819",
+      "CF_cf_art_2820",
+      "CF_cf_art_2821",
+      "CF_cf_art_2822",
+      "CF_cf_art_2823",
+      "CF_cf_art_2824",
+      "CF_cf_art_2825",
+      "CF_cf_art_2826",
+      "CF_cf_art_2827",
+      "CF_cf_art_2828",
+      "CF_cf_art_2845",
+      "CF_cf_art_2874",
+      "CF_cf_art_2875",
+      "CF_cf_art_2902",
+      "CF_cf_art_3037",
+      "CF_cf_art_3042",
+      "CF_cf_art_3088",
+      "CF_cf_art_3099",
+      "CF_cf_art_3100",
+      "CF_cf_art_3101",
+      "CF_cf_art_3102",
+      "CF_cf_art_3103",
+      "CF_cf_art_3140",
+      "CF_cf_art_3169",
+      "CF_cf_art_3195",
+      "CF_cf_art_3197",
+      "CF_cf_art_3205",
+      "CF_cf_art_3230",
+      "CF_cf_art_3274",
+      "CF_cf_art_3437",
+      "CF_cf_art_3443",
+      "CF_cf_art_3444",
+      "CF_cf_art_3526",
+      "CF_cf_art_3528",
+      "CF_cf_art_3529",
+      "CF_cf_art_3560",
+      "CF_cf_art_3564",
+      "CF_cf_art_3565",
+      "CF_cf_art_3574",
+      "CF_cf_art_3575",
+      "CF_cf_art_3576",
+      "CF_cf_art_3588",
+      "CF_cf_art_3590",
+      "CF_cf_art_3600",
+      "CF_cf_art_3601",
+      "CF_cf_art_3602",
+      "CF_cf_art_3605",
+      "CF_cf_art_3606",
+      "CF_cf_art_3608",
+      "CF_cf_art_3613",
+      "CF_cf_art_3614",
+      "CF_cf_art_3621",
+      "CF_cf_art_3645",
+      "CF_cf_art_3646",
+      "CF_cf_art_3719",
+      "CF_cf_art_3773",
+      "CF_cf_art_3799",
+      "CF_cf_art_3802",
+      "CF_cf_art_3804",
+      "CF_cf_art_3813",
+      "CF_cf_art_3814",
+      "CF_cf_art_3839",
+      "CF_cf_art_3906",
+      "CF_cf_art_3917",
+      "CF_cf_art_3918",
+      "CF_cf_art_3919",
+      "CF_cf_art_3922",
+      "CF_cf_art_3923",
+      "CF_cf_art_3924",
+      "CF_cf_art_3927",
+      "CF_cf_art_3928",
+      "CF_cf_art_3929",
+      "CF_cf_art_3930",
+      "CF_cf_art_3963",
+      "CF_cf_art_3968",
+      "CF_cf_art_3969",
+      "CF_cf_art_3985",
+      "CF_cf_art_4100"
+    ],
+    "ranked": false,
+    "total_recuperado": 214,
+    "latencia_segundos": 0.028248229000041647,
+    "latencias_repeticoes_segundos": [
+      0.02909684600001583,
+      0.02858253900001273,
+      0.028248229000041647,
+      0.028058156999918538,
+      0.02764753600001768
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q3",
+    "arquitetura": "bm25",
+    "results": [
+      {
+        "document_id": "CF_cf_art_130",
+        "score": 17.220745728026593,
+        "rank": 1
+      },
+      {
+        "document_id": "CF_cf_art_2686",
+        "score": 14.841989471766722,
+        "rank": 2
+      },
+      {
+        "document_id": "CF_cf_art_2663",
+        "score": 13.671396846712033,
+        "rank": 3
+      },
+      {
+        "document_id": "CF_cf_art_131",
+        "score": 13.321182935126393,
+        "rank": 4
+      },
+      {
+        "document_id": "CF_cf_art_132",
+        "score": 12.982256979735935,
+        "rank": 5
+      },
+      {
+        "document_id": "CF_cf_art_2671",
+        "score": 12.866817209301518,
+        "rank": 6
+      },
+      {
+        "document_id": "CF_cf_art_133",
+        "score": 12.76572783593446,
+        "rank": 7
+      },
+      {
+        "document_id": "CF_cf_art_1355",
+        "score": 12.755178085215668,
+        "rank": 8
+      },
+      {
+        "document_id": "CF_cf_art_2819",
+        "score": 11.993984970857717,
+        "rank": 9
+      },
+      {
+        "document_id": "CF_cf_art_713",
+        "score": 11.830774753261965,
+        "rank": 10
+      },
+      {
+        "document_id": "CF_cf_art_2766",
+        "score": 11.591517024241906,
+        "rank": 11
+      },
+      {
+        "document_id": "CF_cf_art_4100",
+        "score": 11.476365334784328,
+        "rank": 12
+      },
+      {
+        "document_id": "CF_cf_art_2775",
+        "score": 11.37979964290474,
+        "rank": 13
+      },
+      {
+        "document_id": "CF_cf_art_2782",
+        "score": 11.304093124103217,
+        "rank": 14
+      },
+      {
+        "document_id": "CF_cf_art_3719",
+        "score": 11.214416370930415,
+        "rank": 15
+      },
+      {
+        "document_id": "CF_cf_art_3773",
+        "score": 11.214416370930415,
+        "rank": 16
+      },
+      {
+        "document_id": "CF_cf_art_2783",
+        "score": 10.88823338585117,
+        "rank": 17
+      },
+      {
+        "document_id": "CF_cf_art_139",
+        "score": 10.84420457745022,
+        "rank": 18
+      },
+      {
+        "document_id": "CF_cf_art_3565",
+        "score": 10.84420457745022,
+        "rank": 19
+      },
+      {
+        "document_id": "CF_cf_art_730",
+        "score": 10.793969097934838,
+        "rank": 20
+      },
+      {
+        "document_id": "CF_cf_art_1562",
+        "score": 10.585474578330516,
+        "rank": 21
+      },
+      {
+        "document_id": "CF_cf_art_3444",
+        "score": 10.571926693780977,
+        "rank": 22
+      },
+      {
+        "document_id": "CF_cf_art_2680",
+        "score": 10.168318038111575,
+        "rank": 23
+      },
+      {
+        "document_id": "CF_cf_art_649",
+        "score": 10.127263687664392,
+        "rank": 24
+      },
+      {
+        "document_id": "CF_cf_art_1563",
+        "score": 10.08081413644122,
+        "rank": 25
+      },
+      {
+        "document_id": "CF_cf_art_406",
+        "score": 10.052719327693046,
+        "rank": 26
+      },
+      {
+        "document_id": "CF_cf_art_2790",
+        "score": 9.934202228236643,
+        "rank": 27
+      },
+      {
+        "document_id": "CF_cf_art_3922",
+        "score": 9.871910824840434,
+        "rank": 28
+      },
+      {
+        "document_id": "CF_cf_art_2801",
+        "score": 9.86662558739383,
+        "rank": 29
+      },
+      {
+        "document_id": "CF_cf_art_2818",
+        "score": 9.817599093025823,
+        "rank": 30
+      },
+      {
+        "document_id": "CF_cf_art_3614",
+        "score": 9.788743116432203,
+        "rank": 31
+      },
+      {
+        "document_id": "CF_cf_art_724",
+        "score": 9.638641131944677,
+        "rank": 32
+      },
+      {
+        "document_id": "CF_cf_art_3985",
+        "score": 9.583377844167266,
+        "rank": 33
+      },
+      {
+        "document_id": "CF_cf_art_3919",
+        "score": 9.531199850695016,
+        "rank": 34
+      },
+      {
+        "document_id": "CF_cf_art_3918",
+        "score": 9.503913115954635,
+        "rank": 35
+      },
+      {
+        "document_id": "CF_cf_art_2760",
+        "score": 9.480972484771653,
+        "rank": 36
+      },
+      {
+        "document_id": "CF_cf_art_2772",
+        "score": 9.374339663691618,
+        "rank": 37
+      },
+      {
+        "document_id": "CF_cf_art_2800",
+        "score": 9.368290666714541,
+        "rank": 38
+      },
+      {
+        "document_id": "CF_cf_art_983",
+        "score": 9.22740227147647,
+        "rank": 39
+      },
+      {
+        "document_id": "CF_cf_art_2799",
+        "score": 9.223098497282287,
+        "rank": 40
+      },
+      {
+        "document_id": "CF_cf_art_2747",
+        "score": 9.212352431903602,
+        "rank": 41
+      },
+      {
+        "document_id": "CF_cf_art_4093",
+        "score": 9.166852603460779,
+        "rank": 42
+      },
+      {
+        "document_id": "CF_cf_art_3274",
+        "score": 9.126593561671966,
+        "rank": 43
+      },
+      {
+        "document_id": "CF_cf_art_3929",
+        "score": 9.11224175946052,
+        "rank": 44
+      },
+      {
+        "document_id": "CF_cf_art_2716",
+        "score": 9.107805465345194,
+        "rank": 45
+      },
+      {
+        "document_id": "CF_cf_art_726",
+        "score": 9.028614381509401,
+        "rank": 46
+      },
+      {
+        "document_id": "CF_cf_art_705",
+        "score": 9.018981795646857,
+        "rank": 47
+      },
+      {
+        "document_id": "CF_cf_art_685",
+        "score": 8.970761806988552,
+        "rank": 48
+      },
+      {
+        "document_id": "CF_cf_art_741",
+        "score": 8.907482347648244,
+        "rank": 49
+      },
+      {
+        "document_id": "CF_cf_art_743",
+        "score": 8.899072036815895,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "CF_cf_art_130",
+      "CF_cf_art_2686",
+      "CF_cf_art_2663",
+      "CF_cf_art_131",
+      "CF_cf_art_132",
+      "CF_cf_art_2671",
+      "CF_cf_art_133",
+      "CF_cf_art_1355",
+      "CF_cf_art_2819",
+      "CF_cf_art_713",
+      "CF_cf_art_2766",
+      "CF_cf_art_4100",
+      "CF_cf_art_2775",
+      "CF_cf_art_2782",
+      "CF_cf_art_3719",
+      "CF_cf_art_3773",
+      "CF_cf_art_2783",
+      "CF_cf_art_139",
+      "CF_cf_art_3565",
+      "CF_cf_art_730",
+      "CF_cf_art_1562",
+      "CF_cf_art_3444",
+      "CF_cf_art_2680",
+      "CF_cf_art_649",
+      "CF_cf_art_1563",
+      "CF_cf_art_406",
+      "CF_cf_art_2790",
+      "CF_cf_art_3922",
+      "CF_cf_art_2801",
+      "CF_cf_art_2818",
+      "CF_cf_art_3614",
+      "CF_cf_art_724",
+      "CF_cf_art_3985",
+      "CF_cf_art_3919",
+      "CF_cf_art_3918",
+      "CF_cf_art_2760",
+      "CF_cf_art_2772",
+      "CF_cf_art_2800",
+      "CF_cf_art_983",
+      "CF_cf_art_2799",
+      "CF_cf_art_2747",
+      "CF_cf_art_4093",
+      "CF_cf_art_3274",
+      "CF_cf_art_3929",
+      "CF_cf_art_2716",
+      "CF_cf_art_726",
+      "CF_cf_art_705",
+      "CF_cf_art_685",
+      "CF_cf_art_741",
+      "CF_cf_art_743"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.006219084999997904,
+    "latencias_repeticoes_segundos": [
+      0.006656318999944233,
+      0.006219084999997904,
+      0.006018754000024273,
+      0.006131580999976904,
+      0.00966410499995618
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q3",
+    "arquitetura": "vetorial",
+    "results": [
+      {
+        "document_id": "CF_cf_art_726",
+        "score": 0.7306175231933594,
+        "rank": 1
+      },
+      {
+        "document_id": "CF_cf_art_2709",
+        "score": 0.723517894744873,
+        "rank": 2
+      },
+      {
+        "document_id": "CF_cf_art_2774",
+        "score": 0.711857259273529,
+        "rank": 3
+      },
+      {
+        "document_id": "CF_cf_art_3969",
+        "score": 0.7096279859542847,
+        "rank": 4
+      },
+      {
+        "document_id": "CF_cf_art_2775",
+        "score": 0.704857587814331,
+        "rank": 5
+      },
+      {
+        "document_id": "CF_cf_art_2728",
+        "score": 0.7021965384483337,
+        "rank": 6
+      },
+      {
+        "document_id": "CF_cf_art_2782",
+        "score": 0.699987530708313,
+        "rank": 7
+      },
+      {
+        "document_id": "CF_cf_art_743",
+        "score": 0.6919997930526733,
+        "rank": 8
+      },
+      {
+        "document_id": "CF_cf_art_406",
+        "score": 0.6915022134780884,
+        "rank": 9
+      },
+      {
+        "document_id": "CF_cf_art_2710",
+        "score": 0.6890616416931152,
+        "rank": 10
+      },
+      {
+        "document_id": "CF_cf_art_3968",
+        "score": 0.6889249682426453,
+        "rank": 11
+      },
+      {
+        "document_id": "CF_cf_art_2790",
+        "score": 0.6875819563865662,
+        "rank": 12
+      },
+      {
+        "document_id": "CF_cf_art_131",
+        "score": 0.6842156648635864,
+        "rank": 13
+      },
+      {
+        "document_id": "CF_cf_art_3614",
+        "score": 0.6825646162033081,
+        "rank": 14
+      },
+      {
+        "document_id": "CF_cf_art_2716",
+        "score": 0.6793917417526245,
+        "rank": 15
+      },
+      {
+        "document_id": "CF_cf_art_2525",
+        "score": 0.6759361624717712,
+        "rank": 16
+      },
+      {
+        "document_id": "CF_cf_art_2680",
+        "score": 0.6755397319793701,
+        "rank": 17
+      },
+      {
+        "document_id": "CF_cf_art_2760",
+        "score": 0.6731595396995544,
+        "rank": 18
+      },
+      {
+        "document_id": "CF_cf_art_133",
+        "score": 0.6696024537086487,
+        "rank": 19
+      },
+      {
+        "document_id": "CF_cf_art_3601",
+        "score": 0.66953444480896,
+        "rank": 20
+      },
+      {
+        "document_id": "CF_cf_art_2425",
+        "score": 0.6692647337913513,
+        "rank": 21
+      },
+      {
+        "document_id": "CF_cf_art_3602",
+        "score": 0.668673574924469,
+        "rank": 22
+      },
+      {
+        "document_id": "CF_cf_art_705",
+        "score": 0.6673463582992554,
+        "rank": 23
+      },
+      {
+        "document_id": "CF_cf_art_725",
+        "score": 0.6668768525123596,
+        "rank": 24
+      },
+      {
+        "document_id": "CF_cf_art_3922",
+        "score": 0.6646707057952881,
+        "rank": 25
+      },
+      {
+        "document_id": "CF_cf_art_3588",
+        "score": 0.6630830764770508,
+        "rank": 26
+      },
+      {
+        "document_id": "CF_cf_art_3600",
+        "score": 0.6630830764770508,
+        "rank": 27
+      },
+      {
+        "document_id": "CF_cf_art_2663",
+        "score": 0.6629089713096619,
+        "rank": 28
+      },
+      {
+        "document_id": "CF_cf_art_2743",
+        "score": 0.662464439868927,
+        "rank": 29
+      },
+      {
+        "document_id": "CF_cf_art_746",
+        "score": 0.6609821915626526,
+        "rank": 30
+      },
+      {
+        "document_id": "CF_cf_art_3919",
+        "score": 0.6609640717506409,
+        "rank": 31
+      },
+      {
+        "document_id": "CF_cf_art_2792",
+        "score": 0.6599811315536499,
+        "rank": 32
+      },
+      {
+        "document_id": "CF_cf_art_3590",
+        "score": 0.6592268347740173,
+        "rank": 33
+      },
+      {
+        "document_id": "CF_cf_art_3929",
+        "score": 0.6550320982933044,
+        "rank": 34
+      },
+      {
+        "document_id": "CF_cf_art_2717",
+        "score": 0.6536500453948975,
+        "rank": 35
+      },
+      {
+        "document_id": "CF_cf_art_2783",
+        "score": 0.651308536529541,
+        "rank": 36
+      },
+      {
+        "document_id": "CF_cf_art_2727",
+        "score": 0.6508699655532837,
+        "rank": 37
+      },
+      {
+        "document_id": "CF_cf_art_2674",
+        "score": 0.650492787361145,
+        "rank": 38
+      },
+      {
+        "document_id": "CF_cf_art_740",
+        "score": 0.6500594615936279,
+        "rank": 39
+      },
+      {
+        "document_id": "CF_cf_art_2711",
+        "score": 0.6495729088783264,
+        "rank": 40
+      },
+      {
+        "document_id": "CF_cf_art_2664",
+        "score": 0.6492854952812195,
+        "rank": 41
+      },
+      {
+        "document_id": "CF_cf_art_3773",
+        "score": 0.647016704082489,
+        "rank": 42
+      },
+      {
+        "document_id": "CF_cf_art_3719",
+        "score": 0.6461870074272156,
+        "rank": 43
+      },
+      {
+        "document_id": "CF_cf_art_3560",
+        "score": 0.6455326676368713,
+        "rank": 44
+      },
+      {
+        "document_id": "CF_cf_art_2759",
+        "score": 0.644356906414032,
+        "rank": 45
+      },
+      {
+        "document_id": "CF_cf_art_132",
+        "score": 0.6428025364875793,
+        "rank": 46
+      },
+      {
+        "document_id": "CF_cf_art_555",
+        "score": 0.6421360969543457,
+        "rank": 47
+      },
+      {
+        "document_id": "CF_cf_art_2661",
+        "score": 0.6410269141197205,
+        "rank": 48
+      },
+      {
+        "document_id": "CF_cf_art_730",
+        "score": 0.6403793692588806,
+        "rank": 49
+      },
+      {
+        "document_id": "CF_cf_art_2662",
+        "score": 0.6399796605110168,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "CF_cf_art_726",
+      "CF_cf_art_2709",
+      "CF_cf_art_2774",
+      "CF_cf_art_3969",
+      "CF_cf_art_2775",
+      "CF_cf_art_2728",
+      "CF_cf_art_2782",
+      "CF_cf_art_743",
+      "CF_cf_art_406",
+      "CF_cf_art_2710",
+      "CF_cf_art_3968",
+      "CF_cf_art_2790",
+      "CF_cf_art_131",
+      "CF_cf_art_3614",
+      "CF_cf_art_2716",
+      "CF_cf_art_2525",
+      "CF_cf_art_2680",
+      "CF_cf_art_2760",
+      "CF_cf_art_133",
+      "CF_cf_art_3601",
+      "CF_cf_art_2425",
+      "CF_cf_art_3602",
+      "CF_cf_art_705",
+      "CF_cf_art_725",
+      "CF_cf_art_3922",
+      "CF_cf_art_3588",
+      "CF_cf_art_3600",
+      "CF_cf_art_2663",
+      "CF_cf_art_2743",
+      "CF_cf_art_746",
+      "CF_cf_art_3919",
+      "CF_cf_art_2792",
+      "CF_cf_art_3590",
+      "CF_cf_art_3929",
+      "CF_cf_art_2717",
+      "CF_cf_art_2783",
+      "CF_cf_art_2727",
+      "CF_cf_art_2674",
+      "CF_cf_art_740",
+      "CF_cf_art_2711",
+      "CF_cf_art_2664",
+      "CF_cf_art_3773",
+      "CF_cf_art_3719",
+      "CF_cf_art_3560",
+      "CF_cf_art_2759",
+      "CF_cf_art_132",
+      "CF_cf_art_555",
+      "CF_cf_art_2661",
+      "CF_cf_art_730",
+      "CF_cf_art_2662"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.011175417999993442,
+    "latencias_repeticoes_segundos": [
+      0.010949916999948073,
+      0.011175417999993442,
+      0.011111117999917042,
+      0.011787289000039891,
+      0.015606380000008357
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q4",
+    "arquitetura": "booleano",
+    "document_ids": [
+      "CF_cf_art_31",
+      "CF_cf_art_1691",
+      "CF_cf_art_1727",
+      "CF_cf_art_2504",
+      "CF_cf_art_2537",
+      "CF_cf_art_2709",
+      "CF_cf_art_2758",
+      "CF_cf_art_3067"
+    ],
+    "ranked": false,
+    "total_recuperado": 8,
+    "latencia_segundos": 0.03024127399999088,
+    "latencias_repeticoes_segundos": [
+      0.030429876000084732,
+      0.03220931099997415,
+      0.029695179999976062,
+      0.03021628699991652,
+      0.03024127399999088
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q4",
+    "arquitetura": "bm25",
+    "results": [
+      {
+        "document_id": "CF_cf_art_399",
+        "score": 28.413006545769182,
+        "rank": 1
+      },
+      {
+        "document_id": "CF_cf_art_387",
+        "score": 26.861215356289442,
+        "rank": 2
+      },
+      {
+        "document_id": "CF_cf_art_2758",
+        "score": 21.03628778441285,
+        "rank": 3
+      },
+      {
+        "document_id": "CF_cf_art_1727",
+        "score": 19.971204760614015,
+        "rank": 4
+      },
+      {
+        "document_id": "CF_cf_art_2537",
+        "score": 18.15533660762583,
+        "rank": 5
+      },
+      {
+        "document_id": "CF_cf_art_1983",
+        "score": 16.977331389925368,
+        "rank": 6
+      },
+      {
+        "document_id": "CF_cf_art_2507",
+        "score": 16.749427201475523,
+        "rank": 7
+      },
+      {
+        "document_id": "CF_cf_art_3075",
+        "score": 15.280329944449647,
+        "rank": 8
+      },
+      {
+        "document_id": "CF_cf_art_3073",
+        "score": 14.993088597791099,
+        "rank": 9
+      },
+      {
+        "document_id": "CF_cf_art_401",
+        "score": 14.883755542243321,
+        "rank": 10
+      },
+      {
+        "document_id": "CF_cf_art_936",
+        "score": 14.32965934387177,
+        "rank": 11
+      },
+      {
+        "document_id": "CF_cf_art_2611",
+        "score": 14.236883573044189,
+        "rank": 12
+      },
+      {
+        "document_id": "CF_cf_art_3079",
+        "score": 13.851311938119174,
+        "rank": 13
+      },
+      {
+        "document_id": "CF_cf_art_3080",
+        "score": 13.582125300246902,
+        "rank": 14
+      },
+      {
+        "document_id": "CF_cf_art_3068",
+        "score": 13.485516482274011,
+        "rank": 15
+      },
+      {
+        "document_id": "CF_cf_art_3067",
+        "score": 12.806907186281906,
+        "rank": 16
+      },
+      {
+        "document_id": "CF_cf_art_3042",
+        "score": 12.651600210316381,
+        "rank": 17
+      },
+      {
+        "document_id": "CF_cf_art_117",
+        "score": 12.437260854139113,
+        "rank": 18
+      },
+      {
+        "document_id": "CF_cf_art_378",
+        "score": 12.37738504112021,
+        "rank": 19
+      },
+      {
+        "document_id": "CF_cf_art_3614",
+        "score": 12.328292491449933,
+        "rank": 20
+      },
+      {
+        "document_id": "CF_cf_art_3081",
+        "score": 12.087292303279606,
+        "rank": 21
+      },
+      {
+        "document_id": "CF_cf_art_2779",
+        "score": 12.004405578977511,
+        "rank": 22
+      },
+      {
+        "document_id": "CF_cf_art_3673",
+        "score": 11.86909098507199,
+        "rank": 23
+      },
+      {
+        "document_id": "CF_cf_art_2778",
+        "score": 11.613765920528653,
+        "rank": 24
+      },
+      {
+        "document_id": "CF_cf_art_3976",
+        "score": 11.569665928363442,
+        "rank": 25
+      },
+      {
+        "document_id": "CF_cf_art_351",
+        "score": 11.431754129930791,
+        "rank": 26
+      },
+      {
+        "document_id": "CF_cf_art_3725",
+        "score": 11.104032673476892,
+        "rank": 27
+      },
+      {
+        "document_id": "CF_cf_art_2783",
+        "score": 11.072613182914944,
+        "rank": 28
+      },
+      {
+        "document_id": "CF_cf_art_2154",
+        "score": 10.849020640928913,
+        "rank": 29
+      },
+      {
+        "document_id": "CF_cf_art_3729",
+        "score": 10.750429450526525,
+        "rank": 30
+      },
+      {
+        "document_id": "CF_cf_art_718",
+        "score": 10.684247314826653,
+        "rank": 31
+      },
+      {
+        "document_id": "CF_cf_art_3731",
+        "score": 10.600608520927786,
+        "rank": 32
+      },
+      {
+        "document_id": "CF_cf_art_1347",
+        "score": 10.594576507675486,
+        "rank": 33
+      },
+      {
+        "document_id": "CF_cf_art_124",
+        "score": 10.535225200121253,
+        "rank": 34
+      },
+      {
+        "document_id": "CF_cf_art_3707",
+        "score": 10.49192752033008,
+        "rank": 35
+      },
+      {
+        "document_id": "CF_cf_art_3639",
+        "score": 10.426213589848585,
+        "rank": 36
+      },
+      {
+        "document_id": "CF_cf_art_3947",
+        "score": 10.38853670065239,
+        "rank": 37
+      },
+      {
+        "document_id": "CF_cf_art_2516",
+        "score": 10.383792097340795,
+        "rank": 38
+      },
+      {
+        "document_id": "CF_cf_art_3190",
+        "score": 10.34424967105055,
+        "rank": 39
+      },
+      {
+        "document_id": "CF_cf_art_3191",
+        "score": 10.270705104528371,
+        "rank": 40
+      },
+      {
+        "document_id": "CF_cf_art_2875",
+        "score": 10.140285496301175,
+        "rank": 41
+      },
+      {
+        "document_id": "CF_cf_art_1265",
+        "score": 10.111315683271652,
+        "rank": 42
+      },
+      {
+        "document_id": "CF_cf_art_1906",
+        "score": 10.089466946287033,
+        "rank": 43
+      },
+      {
+        "document_id": "CF_cf_art_1241",
+        "score": 9.989249406758276,
+        "rank": 44
+      },
+      {
+        "document_id": "CF_cf_art_3056",
+        "score": 9.98828152385057,
+        "rank": 45
+      },
+      {
+        "document_id": "CF_cf_art_3279",
+        "score": 9.98799302388181,
+        "rank": 46
+      },
+      {
+        "document_id": "CF_cf_art_1348",
+        "score": 9.905542292271395,
+        "rank": 47
+      },
+      {
+        "document_id": "CF_cf_art_2731",
+        "score": 9.871720271912555,
+        "rank": 48
+      },
+      {
+        "document_id": "CF_cf_art_3026",
+        "score": 9.782031566705907,
+        "rank": 49
+      },
+      {
+        "document_id": "CF_cf_art_3192",
+        "score": 9.775604310581858,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "CF_cf_art_399",
+      "CF_cf_art_387",
+      "CF_cf_art_2758",
+      "CF_cf_art_1727",
+      "CF_cf_art_2537",
+      "CF_cf_art_1983",
+      "CF_cf_art_2507",
+      "CF_cf_art_3075",
+      "CF_cf_art_3073",
+      "CF_cf_art_401",
+      "CF_cf_art_936",
+      "CF_cf_art_2611",
+      "CF_cf_art_3079",
+      "CF_cf_art_3080",
+      "CF_cf_art_3068",
+      "CF_cf_art_3067",
+      "CF_cf_art_3042",
+      "CF_cf_art_117",
+      "CF_cf_art_378",
+      "CF_cf_art_3614",
+      "CF_cf_art_3081",
+      "CF_cf_art_2779",
+      "CF_cf_art_3673",
+      "CF_cf_art_2778",
+      "CF_cf_art_3976",
+      "CF_cf_art_351",
+      "CF_cf_art_3725",
+      "CF_cf_art_2783",
+      "CF_cf_art_2154",
+      "CF_cf_art_3729",
+      "CF_cf_art_718",
+      "CF_cf_art_3731",
+      "CF_cf_art_1347",
+      "CF_cf_art_124",
+      "CF_cf_art_3707",
+      "CF_cf_art_3639",
+      "CF_cf_art_3947",
+      "CF_cf_art_2516",
+      "CF_cf_art_3190",
+      "CF_cf_art_3191",
+      "CF_cf_art_2875",
+      "CF_cf_art_1265",
+      "CF_cf_art_1906",
+      "CF_cf_art_1241",
+      "CF_cf_art_3056",
+      "CF_cf_art_3279",
+      "CF_cf_art_1348",
+      "CF_cf_art_2731",
+      "CF_cf_art_3026",
+      "CF_cf_art_3192"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.009553920000030303,
+    "latencias_repeticoes_segundos": [
+      0.010535473999993883,
+      0.010095980999949461,
+      0.009553920000030303,
+      0.008017607999931897,
+      0.007695456999954331
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q4",
+    "arquitetura": "vetorial",
+    "results": [
+      {
+        "document_id": "CF_cf_art_387",
+        "score": 0.7661406397819519,
+        "rank": 1
+      },
+      {
+        "document_id": "CF_cf_art_2507",
+        "score": 0.7639783620834351,
+        "rank": 2
+      },
+      {
+        "document_id": "CF_cf_art_2267",
+        "score": 0.6571377515792847,
+        "rank": 3
+      },
+      {
+        "document_id": "CF_cf_art_2238",
+        "score": 0.6541132926940918,
+        "rank": 4
+      },
+      {
+        "document_id": "CF_cf_art_2090",
+        "score": 0.6540331840515137,
+        "rank": 5
+      },
+      {
+        "document_id": "CF_cf_art_1883",
+        "score": 0.6480662822723389,
+        "rank": 6
+      },
+      {
+        "document_id": "CF_cf_art_1983",
+        "score": 0.6431854963302612,
+        "rank": 7
+      },
+      {
+        "document_id": "CF_cf_art_2786",
+        "score": 0.6395376920700073,
+        "rank": 8
+      },
+      {
+        "document_id": "CF_cf_art_3067",
+        "score": 0.6300646662712097,
+        "rank": 9
+      },
+      {
+        "document_id": "CF_cf_art_703",
+        "score": 0.6297733187675476,
+        "rank": 10
+      },
+      {
+        "document_id": "CF_cf_art_1417",
+        "score": 0.6274268627166748,
+        "rank": 11
+      },
+      {
+        "document_id": "CF_cf_art_2570",
+        "score": 0.6201565861701965,
+        "rank": 12
+      },
+      {
+        "document_id": "CF_cf_art_1874",
+        "score": 0.6200565695762634,
+        "rank": 13
+      },
+      {
+        "document_id": "CF_cf_art_1726",
+        "score": 0.616700291633606,
+        "rank": 14
+      },
+      {
+        "document_id": "CF_cf_art_295",
+        "score": 0.6106956005096436,
+        "rank": 15
+      },
+      {
+        "document_id": "CF_cf_art_551",
+        "score": 0.6081178784370422,
+        "rank": 16
+      },
+      {
+        "document_id": "CF_cf_art_3073",
+        "score": 0.6080408692359924,
+        "rank": 17
+      },
+      {
+        "document_id": "CF_cf_art_576",
+        "score": 0.6066458225250244,
+        "rank": 18
+      },
+      {
+        "document_id": "CF_cf_art_3068",
+        "score": 0.6024801135063171,
+        "rank": 19
+      },
+      {
+        "document_id": "CF_cf_art_399",
+        "score": 0.6023358106613159,
+        "rank": 20
+      },
+      {
+        "document_id": "CF_cf_art_2753",
+        "score": 0.5991374254226685,
+        "rank": 21
+      },
+      {
+        "document_id": "CF_cf_art_381",
+        "score": 0.5971484780311584,
+        "rank": 22
+      },
+      {
+        "document_id": "CF_cf_art_2091",
+        "score": 0.5928307175636292,
+        "rank": 23
+      },
+      {
+        "document_id": "CF_cf_art_2758",
+        "score": 0.5914016962051392,
+        "rank": 24
+      },
+      {
+        "document_id": "CF_cf_art_343",
+        "score": 0.5903768539428711,
+        "rank": 25
+      },
+      {
+        "document_id": "CF_cf_art_3914",
+        "score": 0.5888303518295288,
+        "rank": 26
+      },
+      {
+        "document_id": "CF_cf_art_2611",
+        "score": 0.5874449610710144,
+        "rank": 27
+      },
+      {
+        "document_id": "CF_cf_art_1849",
+        "score": 0.5852476358413696,
+        "rank": 28
+      },
+      {
+        "document_id": "CF_cf_art_3903",
+        "score": 0.5851926207542419,
+        "rank": 29
+      },
+      {
+        "document_id": "CF_cf_art_2555",
+        "score": 0.5850123167037964,
+        "rank": 30
+      },
+      {
+        "document_id": "CF_cf_art_344",
+        "score": 0.5844982862472534,
+        "rank": 31
+      },
+      {
+        "document_id": "CF_cf_art_2462",
+        "score": 0.5842029452323914,
+        "rank": 32
+      },
+      {
+        "document_id": "CF_cf_art_298",
+        "score": 0.582535982131958,
+        "rank": 33
+      },
+      {
+        "document_id": "CF_cf_art_3107",
+        "score": 0.5811610817909241,
+        "rank": 34
+      },
+      {
+        "document_id": "CF_cf_art_3042",
+        "score": 0.5806289315223694,
+        "rank": 35
+      },
+      {
+        "document_id": "CF_cf_art_573",
+        "score": 0.5788083076477051,
+        "rank": 36
+      },
+      {
+        "document_id": "CF_cf_art_2924",
+        "score": 0.5766648054122925,
+        "rank": 37
+      },
+      {
+        "document_id": "CF_cf_art_704",
+        "score": 0.5744053721427917,
+        "rank": 38
+      },
+      {
+        "document_id": "CF_cf_art_3069",
+        "score": 0.5732978582382202,
+        "rank": 39
+      },
+      {
+        "document_id": "CF_cf_art_643",
+        "score": 0.5724335312843323,
+        "rank": 40
+      },
+      {
+        "document_id": "CF_cf_art_2566",
+        "score": 0.5714187026023865,
+        "rank": 41
+      },
+      {
+        "document_id": "CF_cf_art_351",
+        "score": 0.5668622851371765,
+        "rank": 42
+      },
+      {
+        "document_id": "CF_cf_art_1411",
+        "score": 0.5668094754219055,
+        "rank": 43
+      },
+      {
+        "document_id": "CF_cf_art_131",
+        "score": 0.5651804208755493,
+        "rank": 44
+      },
+      {
+        "document_id": "CF_cf_art_642",
+        "score": 0.564396321773529,
+        "rank": 45
+      },
+      {
+        "document_id": "CF_cf_art_2480",
+        "score": 0.564332127571106,
+        "rank": 46
+      },
+      {
+        "document_id": "CF_cf_art_746",
+        "score": 0.5643203854560852,
+        "rank": 47
+      },
+      {
+        "document_id": "CF_cf_art_3823",
+        "score": 0.5643183588981628,
+        "rank": 48
+      },
+      {
+        "document_id": "CF_cf_art_1850",
+        "score": 0.5635161399841309,
+        "rank": 49
+      },
+      {
+        "document_id": "CF_cf_art_3029",
+        "score": 0.5632502436637878,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "CF_cf_art_387",
+      "CF_cf_art_2507",
+      "CF_cf_art_2267",
+      "CF_cf_art_2238",
+      "CF_cf_art_2090",
+      "CF_cf_art_1883",
+      "CF_cf_art_1983",
+      "CF_cf_art_2786",
+      "CF_cf_art_3067",
+      "CF_cf_art_703",
+      "CF_cf_art_1417",
+      "CF_cf_art_2570",
+      "CF_cf_art_1874",
+      "CF_cf_art_1726",
+      "CF_cf_art_295",
+      "CF_cf_art_551",
+      "CF_cf_art_3073",
+      "CF_cf_art_576",
+      "CF_cf_art_3068",
+      "CF_cf_art_399",
+      "CF_cf_art_2753",
+      "CF_cf_art_381",
+      "CF_cf_art_2091",
+      "CF_cf_art_2758",
+      "CF_cf_art_343",
+      "CF_cf_art_3914",
+      "CF_cf_art_2611",
+      "CF_cf_art_1849",
+      "CF_cf_art_3903",
+      "CF_cf_art_2555",
+      "CF_cf_art_344",
+      "CF_cf_art_2462",
+      "CF_cf_art_298",
+      "CF_cf_art_3107",
+      "CF_cf_art_3042",
+      "CF_cf_art_573",
+      "CF_cf_art_2924",
+      "CF_cf_art_704",
+      "CF_cf_art_3069",
+      "CF_cf_art_643",
+      "CF_cf_art_2566",
+      "CF_cf_art_351",
+      "CF_cf_art_1411",
+      "CF_cf_art_131",
+      "CF_cf_art_642",
+      "CF_cf_art_2480",
+      "CF_cf_art_746",
+      "CF_cf_art_3823",
+      "CF_cf_art_1850",
+      "CF_cf_art_3029"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.01171308699997553,
+    "latencias_repeticoes_segundos": [
+      0.012785338999947271,
+      0.01171308699997553,
+      0.011637371999995594,
+      0.011742131000005429,
+      0.011560963999954765
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q5",
+    "arquitetura": "booleano",
+    "document_ids": [
+      "CF_cf_art_3088"
+    ],
+    "ranked": false,
+    "total_recuperado": 1,
+    "latencia_segundos": 0.030739515000050233,
+    "latencias_repeticoes_segundos": [
+      0.03362300399999185,
+      0.031423164999978326,
+      0.030739515000050233,
+      0.030367859999955726,
+      0.030442930000049273
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q5",
+    "arquitetura": "bm25",
+    "results": [
+      {
+        "document_id": "CF_cf_art_2832",
+        "score": 28.555703902130055,
+        "rank": 1
+      },
+      {
+        "document_id": "CF_cf_art_2870",
+        "score": 18.326924851427616,
+        "rank": 2
+      },
+      {
+        "document_id": "CF_cf_art_2871",
+        "score": 16.89357542981553,
+        "rank": 3
+      },
+      {
+        "document_id": "CF_cf_art_2829",
+        "score": 15.998589175541621,
+        "rank": 4
+      },
+      {
+        "document_id": "CF_cf_art_351",
+        "score": 15.163269638806051,
+        "rank": 5
+      },
+      {
+        "document_id": "CF_cf_art_408",
+        "score": 15.041401638692209,
+        "rank": 6
+      },
+      {
+        "document_id": "CF_cf_art_2710",
+        "score": 15.041341901400006,
+        "rank": 7
+      },
+      {
+        "document_id": "CF_cf_art_8",
+        "score": 15.031971915240014,
+        "rank": 8
+      },
+      {
+        "document_id": "CF_cf_art_382",
+        "score": 15.027120429619856,
+        "rank": 9
+      },
+      {
+        "document_id": "CF_cf_art_378",
+        "score": 14.979138250009374,
+        "rank": 10
+      },
+      {
+        "document_id": "CF_cf_art_392",
+        "score": 14.93453368178798,
+        "rank": 11
+      },
+      {
+        "document_id": "CF_cf_art_38",
+        "score": 14.875777215663916,
+        "rank": 12
+      },
+      {
+        "document_id": "CF_cf_art_1727",
+        "score": 14.83466664365049,
+        "rank": 13
+      },
+      {
+        "document_id": "CF_cf_art_131",
+        "score": 14.740635478816138,
+        "rank": 14
+      },
+      {
+        "document_id": "CF_cf_art_3013",
+        "score": 14.687120893094876,
+        "rank": 15
+      },
+      {
+        "document_id": "CF_cf_art_132",
+        "score": 14.365594914697288,
+        "rank": 16
+      },
+      {
+        "document_id": "CF_cf_art_86",
+        "score": 14.258055977468093,
+        "rank": 17
+      },
+      {
+        "document_id": "CF_cf_art_631",
+        "score": 14.196636887943434,
+        "rank": 18
+      },
+      {
+        "document_id": "CF_cf_art_133",
+        "score": 14.125993282104933,
+        "rank": 19
+      },
+      {
+        "document_id": "CF_cf_art_3109",
+        "score": 14.07963474846271,
+        "rank": 20
+      },
+      {
+        "document_id": "CF_cf_art_1179",
+        "score": 13.87807056814791,
+        "rank": 21
+      },
+      {
+        "document_id": "CF_cf_art_130",
+        "score": 13.858219685697795,
+        "rank": 22
+      },
+      {
+        "document_id": "CF_cf_art_3557",
+        "score": 13.68713829810308,
+        "rank": 23
+      },
+      {
+        "document_id": "CF_cf_art_3134",
+        "score": 13.685374614077041,
+        "rank": 24
+      },
+      {
+        "document_id": "CF_cf_art_3281",
+        "score": 13.565331715895026,
+        "rank": 25
+      },
+      {
+        "document_id": "CF_cf_art_1097",
+        "score": 13.56149162867602,
+        "rank": 26
+      },
+      {
+        "document_id": "CF_cf_art_113",
+        "score": 13.552969657514863,
+        "rank": 27
+      },
+      {
+        "document_id": "CF_cf_art_1872",
+        "score": 13.42385314287692,
+        "rank": 28
+      },
+      {
+        "document_id": "CF_cf_art_748",
+        "score": 13.403210504896718,
+        "rank": 29
+      },
+      {
+        "document_id": "CF_cf_art_70",
+        "score": 13.384856194585911,
+        "rank": 30
+      },
+      {
+        "document_id": "CF_cf_art_335",
+        "score": 13.382620500670114,
+        "rank": 31
+      },
+      {
+        "document_id": "CF_cf_art_63",
+        "score": 13.362261707156353,
+        "rank": 32
+      },
+      {
+        "document_id": "CF_cf_art_401",
+        "score": 13.320640857373695,
+        "rank": 33
+      },
+      {
+        "document_id": "CF_cf_art_3642",
+        "score": 13.187120223676008,
+        "rank": 34
+      },
+      {
+        "document_id": "CF_cf_art_1779",
+        "score": 13.184881570785564,
+        "rank": 35
+      },
+      {
+        "document_id": "CF_cf_art_3235",
+        "score": 13.167323567592607,
+        "rank": 36
+      },
+      {
+        "document_id": "CF_cf_art_2982",
+        "score": 13.121101841154625,
+        "rank": 37
+      },
+      {
+        "document_id": "CF_cf_art_2100",
+        "score": 13.04513726149118,
+        "rank": 38
+      },
+      {
+        "document_id": "CF_cf_art_129",
+        "score": 13.013702043099073,
+        "rank": 39
+      },
+      {
+        "document_id": "CF_cf_art_3088",
+        "score": 12.83707751278506,
+        "rank": 40
+      },
+      {
+        "document_id": "CF_cf_art_175",
+        "score": 12.79839150201194,
+        "rank": 41
+      },
+      {
+        "document_id": "CF_cf_art_3196",
+        "score": 12.78683327418912,
+        "rank": 42
+      },
+      {
+        "document_id": "CF_cf_art_409",
+        "score": 12.77641664497307,
+        "rank": 43
+      },
+      {
+        "document_id": "CF_cf_art_135",
+        "score": 12.774796439959246,
+        "rank": 44
+      },
+      {
+        "document_id": "CF_cf_art_2663",
+        "score": 12.754481853287738,
+        "rank": 45
+      },
+      {
+        "document_id": "CF_cf_art_293",
+        "score": 12.6901393565149,
+        "rank": 46
+      },
+      {
+        "document_id": "CF_cf_art_1611",
+        "score": 12.683906534858195,
+        "rank": 47
+      },
+      {
+        "document_id": "CF_cf_art_103",
+        "score": 12.618838898902982,
+        "rank": 48
+      },
+      {
+        "document_id": "CF_cf_art_2526",
+        "score": 12.543711960438221,
+        "rank": 49
+      },
+      {
+        "document_id": "CF_cf_art_521",
+        "score": 12.539840284332108,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "CF_cf_art_2832",
+      "CF_cf_art_2870",
+      "CF_cf_art_2871",
+      "CF_cf_art_2829",
+      "CF_cf_art_351",
+      "CF_cf_art_408",
+      "CF_cf_art_2710",
+      "CF_cf_art_8",
+      "CF_cf_art_382",
+      "CF_cf_art_378",
+      "CF_cf_art_392",
+      "CF_cf_art_38",
+      "CF_cf_art_1727",
+      "CF_cf_art_131",
+      "CF_cf_art_3013",
+      "CF_cf_art_132",
+      "CF_cf_art_86",
+      "CF_cf_art_631",
+      "CF_cf_art_133",
+      "CF_cf_art_3109",
+      "CF_cf_art_1179",
+      "CF_cf_art_130",
+      "CF_cf_art_3557",
+      "CF_cf_art_3134",
+      "CF_cf_art_3281",
+      "CF_cf_art_1097",
+      "CF_cf_art_113",
+      "CF_cf_art_1872",
+      "CF_cf_art_748",
+      "CF_cf_art_70",
+      "CF_cf_art_335",
+      "CF_cf_art_63",
+      "CF_cf_art_401",
+      "CF_cf_art_3642",
+      "CF_cf_art_1779",
+      "CF_cf_art_3235",
+      "CF_cf_art_2982",
+      "CF_cf_art_2100",
+      "CF_cf_art_129",
+      "CF_cf_art_3088",
+      "CF_cf_art_175",
+      "CF_cf_art_3196",
+      "CF_cf_art_409",
+      "CF_cf_art_135",
+      "CF_cf_art_2663",
+      "CF_cf_art_293",
+      "CF_cf_art_1611",
+      "CF_cf_art_103",
+      "CF_cf_art_2526",
+      "CF_cf_art_521"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.006341632000044228,
+    "latencias_repeticoes_segundos": [
+      0.008350416999974186,
+      0.007631389000039235,
+      0.006341632000044228,
+      0.006101225000065824,
+      0.006197166999982073
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "constituicao_federal",
+    "query_id": "Q5",
+    "arquitetura": "vetorial",
+    "results": [
+      {
+        "document_id": "CF_cf_art_3122",
+        "score": 0.8697640299797058,
+        "rank": 1
+      },
+      {
+        "document_id": "CF_cf_art_3120",
+        "score": 0.83026123046875,
+        "rank": 2
+      },
+      {
+        "document_id": "CF_cf_art_3100",
+        "score": 0.7972422242164612,
+        "rank": 3
+      },
+      {
+        "document_id": "CF_cf_art_3111",
+        "score": 0.7757616639137268,
+        "rank": 4
+      },
+      {
+        "document_id": "CF_cf_art_3099",
+        "score": 0.7535902261734009,
+        "rank": 5
+      },
+      {
+        "document_id": "CF_cf_art_3116",
+        "score": 0.7521721124649048,
+        "rank": 6
+      },
+      {
+        "document_id": "CF_cf_art_409",
+        "score": 0.728316068649292,
+        "rank": 7
+      },
+      {
+        "document_id": "CF_cf_art_131",
+        "score": 0.710042417049408,
+        "rank": 8
+      },
+      {
+        "document_id": "CF_cf_art_1726",
+        "score": 0.6998545527458191,
+        "rank": 9
+      },
+      {
+        "document_id": "CF_cf_art_2831",
+        "score": 0.6959865689277649,
+        "rank": 10
+      },
+      {
+        "document_id": "CF_cf_art_133",
+        "score": 0.6701205968856812,
+        "rank": 11
+      },
+      {
+        "document_id": "CF_cf_art_129",
+        "score": 0.6699797511100769,
+        "rank": 12
+      },
+      {
+        "document_id": "CF_cf_art_29",
+        "score": 0.665725827217102,
+        "rank": 13
+      },
+      {
+        "document_id": "CF_cf_art_2889",
+        "score": 0.6656928062438965,
+        "rank": 14
+      },
+      {
+        "document_id": "CF_cf_art_161",
+        "score": 0.6654353737831116,
+        "rank": 15
+      },
+      {
+        "document_id": "CF_cf_art_69",
+        "score": 0.6645294427871704,
+        "rank": 16
+      },
+      {
+        "document_id": "CF_cf_art_1792",
+        "score": 0.6635056734085083,
+        "rank": 17
+      },
+      {
+        "document_id": "CF_cf_art_130",
+        "score": 0.6633847951889038,
+        "rank": 18
+      },
+      {
+        "document_id": "CF_cf_art_2871",
+        "score": 0.6617059707641602,
+        "rank": 19
+      },
+      {
+        "document_id": "CF_cf_art_1874",
+        "score": 0.6615810394287109,
+        "rank": 20
+      },
+      {
+        "document_id": "CF_cf_art_132",
+        "score": 0.6578276753425598,
+        "rank": 21
+      },
+      {
+        "document_id": "CF_cf_art_3102",
+        "score": 0.6561366319656372,
+        "rank": 22
+      },
+      {
+        "document_id": "CF_cf_art_657",
+        "score": 0.654945433139801,
+        "rank": 23
+      },
+      {
+        "document_id": "CF_cf_art_989",
+        "score": 0.6545678973197937,
+        "rank": 24
+      },
+      {
+        "document_id": "CF_cf_art_2858",
+        "score": 0.6537209153175354,
+        "rank": 25
+      },
+      {
+        "document_id": "CF_cf_art_752",
+        "score": 0.6529831290245056,
+        "rank": 26
+      },
+      {
+        "document_id": "CF_cf_art_2868",
+        "score": 0.6518397927284241,
+        "rank": 27
+      },
+      {
+        "document_id": "CF_cf_art_2176",
+        "score": 0.6505040526390076,
+        "rank": 28
+      },
+      {
+        "document_id": "CF_cf_art_3069",
+        "score": 0.6502764821052551,
+        "rank": 29
+      },
+      {
+        "document_id": "CF_cf_art_3980",
+        "score": 0.6496516466140747,
+        "rank": 30
+      },
+      {
+        "document_id": "CF_cf_art_2865",
+        "score": 0.647607147693634,
+        "rank": 31
+      },
+      {
+        "document_id": "CF_cf_art_378",
+        "score": 0.6454903483390808,
+        "rank": 32
+      },
+      {
+        "document_id": "CF_cf_art_2926",
+        "score": 0.6453762650489807,
+        "rank": 33
+      },
+      {
+        "document_id": "CF_cf_art_3123",
+        "score": 0.6427582502365112,
+        "rank": 34
+      },
+      {
+        "document_id": "CF_cf_art_174",
+        "score": 0.64274662733078,
+        "rank": 35
+      },
+      {
+        "document_id": "CF_cf_art_3871",
+        "score": 0.6410166025161743,
+        "rank": 36
+      },
+      {
+        "document_id": "CF_cf_art_3124",
+        "score": 0.6389533877372742,
+        "rank": 37
+      },
+      {
+        "document_id": "CF_cf_art_1521",
+        "score": 0.6369456052780151,
+        "rank": 38
+      },
+      {
+        "document_id": "CF_cf_art_2866",
+        "score": 0.6342332363128662,
+        "rank": 39
+      },
+      {
+        "document_id": "CF_cf_art_1417",
+        "score": 0.6337068676948547,
+        "rank": 40
+      },
+      {
+        "document_id": "CF_cf_art_518",
+        "score": 0.6333610415458679,
+        "rank": 41
+      },
+      {
+        "document_id": "CF_cf_art_351",
+        "score": 0.6316842436790466,
+        "rank": 42
+      },
+      {
+        "document_id": "CF_cf_art_3087",
+        "score": 0.6312276721000671,
+        "rank": 43
+      },
+      {
+        "document_id": "CF_cf_art_1524",
+        "score": 0.6309636831283569,
+        "rank": 44
+      },
+      {
+        "document_id": "CF_cf_art_2927",
+        "score": 0.6307681798934937,
+        "rank": 45
+      },
+      {
+        "document_id": "CF_cf_art_621",
+        "score": 0.6303827166557312,
+        "rank": 46
+      },
+      {
+        "document_id": "CF_cf_art_2266",
+        "score": 0.6292779445648193,
+        "rank": 47
+      },
+      {
+        "document_id": "CF_cf_art_802",
+        "score": 0.627644419670105,
+        "rank": 48
+      },
+      {
+        "document_id": "CF_cf_art_1690",
+        "score": 0.627644419670105,
+        "rank": 49
+      },
+      {
+        "document_id": "CF_cf_art_1774",
+        "score": 0.627644419670105,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "CF_cf_art_3122",
+      "CF_cf_art_3120",
+      "CF_cf_art_3100",
+      "CF_cf_art_3111",
+      "CF_cf_art_3099",
+      "CF_cf_art_3116",
+      "CF_cf_art_409",
+      "CF_cf_art_131",
+      "CF_cf_art_1726",
+      "CF_cf_art_2831",
+      "CF_cf_art_133",
+      "CF_cf_art_129",
+      "CF_cf_art_29",
+      "CF_cf_art_2889",
+      "CF_cf_art_161",
+      "CF_cf_art_69",
+      "CF_cf_art_1792",
+      "CF_cf_art_130",
+      "CF_cf_art_2871",
+      "CF_cf_art_1874",
+      "CF_cf_art_132",
+      "CF_cf_art_3102",
+      "CF_cf_art_657",
+      "CF_cf_art_989",
+      "CF_cf_art_2858",
+      "CF_cf_art_752",
+      "CF_cf_art_2868",
+      "CF_cf_art_2176",
+      "CF_cf_art_3069",
+      "CF_cf_art_3980",
+      "CF_cf_art_2865",
+      "CF_cf_art_378",
+      "CF_cf_art_2926",
+      "CF_cf_art_3123",
+      "CF_cf_art_174",
+      "CF_cf_art_3871",
+      "CF_cf_art_3124",
+      "CF_cf_art_1521",
+      "CF_cf_art_2866",
+      "CF_cf_art_1417",
+      "CF_cf_art_518",
+      "CF_cf_art_351",
+      "CF_cf_art_3087",
+      "CF_cf_art_1524",
+      "CF_cf_art_2927",
+      "CF_cf_art_621",
+      "CF_cf_art_2266",
+      "CF_cf_art_802",
+      "CF_cf_art_1690",
+      "CF_cf_art_1774"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.012979273000041758,
+    "latencias_repeticoes_segundos": [
+      0.019388340000091375,
+      0.01429024699996262,
+      0.01106117799997719,
+      0.012979273000041758,
+      0.011052973000005295
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q1",
+    "arquitetura": "booleano",
+    "document_ids": [
+      "WIKI_1782",
+      "WIKI_9321",
+      "WIKI_12150",
+      "WIKI_12699",
+      "WIKI_12722",
+      "WIKI_13586",
+      "WIKI_13884",
+      "WIKI_23726",
+      "WIKI_26201",
+      "WIKI_30066",
+      "WIKI_49099",
+      "WIKI_60796",
+      "WIKI_61538",
+      "WIKI_71205"
+    ],
+    "ranked": false,
+    "total_recuperado": 14,
+    "latencia_segundos": 1.539853452999978,
+    "latencias_repeticoes_segundos": [
+      1.2267061260000673,
+      1.8368700440000794,
+      2.0664744900000187,
+      1.539853452999978,
+      1.2351177150000012
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q1",
+    "arquitetura": "bm25",
+    "results": [
+      {
+        "document_id": "WIKI_12722",
+        "score": 31.100774002742767,
+        "rank": 1
+      },
+      {
+        "document_id": "WIKI_71205",
+        "score": 29.217111047478973,
+        "rank": 2
+      },
+      {
+        "document_id": "WIKI_61538",
+        "score": 29.206547343022628,
+        "rank": 3
+      },
+      {
+        "document_id": "WIKI_23726",
+        "score": 28.42174815732389,
+        "rank": 4
+      },
+      {
+        "document_id": "WIKI_60796",
+        "score": 27.665264413522237,
+        "rank": 5
+      },
+      {
+        "document_id": "WIKI_26201",
+        "score": 25.927029176018184,
+        "rank": 6
+      },
+      {
+        "document_id": "WIKI_13884",
+        "score": 25.915203423939506,
+        "rank": 7
+      },
+      {
+        "document_id": "WIKI_62190",
+        "score": 24.73834719548111,
+        "rank": 8
+      },
+      {
+        "document_id": "WIKI_1477",
+        "score": 24.737504560041277,
+        "rank": 9
+      },
+      {
+        "document_id": "WIKI_13586",
+        "score": 24.177982674237132,
+        "rank": 10
+      },
+      {
+        "document_id": "WIKI_13080",
+        "score": 23.915755579502157,
+        "rank": 11
+      },
+      {
+        "document_id": "WIKI_55104",
+        "score": 23.58641469544918,
+        "rank": 12
+      },
+      {
+        "document_id": "WIKI_46589",
+        "score": 23.58156179981838,
+        "rank": 13
+      },
+      {
+        "document_id": "WIKI_9321",
+        "score": 23.103376748922727,
+        "rank": 14
+      },
+      {
+        "document_id": "WIKI_29748",
+        "score": 23.056502765277454,
+        "rank": 15
+      },
+      {
+        "document_id": "WIKI_12699",
+        "score": 22.411034798785387,
+        "rank": 16
+      },
+      {
+        "document_id": "WIKI_40877",
+        "score": 22.18347469725571,
+        "rank": 17
+      },
+      {
+        "document_id": "WIKI_69268",
+        "score": 22.17814677397524,
+        "rank": 18
+      },
+      {
+        "document_id": "WIKI_1782",
+        "score": 22.160217622646684,
+        "rank": 19
+      },
+      {
+        "document_id": "WIKI_37138",
+        "score": 21.464407674389825,
+        "rank": 20
+      },
+      {
+        "document_id": "WIKI_12150",
+        "score": 21.0384391103949,
+        "rank": 21
+      },
+      {
+        "document_id": "WIKI_92306",
+        "score": 20.883923999861032,
+        "rank": 22
+      },
+      {
+        "document_id": "WIKI_97920",
+        "score": 20.58960922395882,
+        "rank": 23
+      },
+      {
+        "document_id": "WIKI_49573",
+        "score": 20.433044949761968,
+        "rank": 24
+      },
+      {
+        "document_id": "WIKI_440",
+        "score": 20.333777388295957,
+        "rank": 25
+      },
+      {
+        "document_id": "WIKI_2683",
+        "score": 20.278160073025745,
+        "rank": 26
+      },
+      {
+        "document_id": "WIKI_29330",
+        "score": 19.93039839279448,
+        "rank": 27
+      },
+      {
+        "document_id": "WIKI_65038",
+        "score": 19.831352857327033,
+        "rank": 28
+      },
+      {
+        "document_id": "WIKI_998",
+        "score": 19.775703778467,
+        "rank": 29
+      },
+      {
+        "document_id": "WIKI_82673",
+        "score": 19.638130805039612,
+        "rank": 30
+      },
+      {
+        "document_id": "WIKI_64209",
+        "score": 19.37365874494971,
+        "rank": 31
+      },
+      {
+        "document_id": "WIKI_14821",
+        "score": 19.321146313764075,
+        "rank": 32
+      },
+      {
+        "document_id": "WIKI_30066",
+        "score": 19.311858242527876,
+        "rank": 33
+      },
+      {
+        "document_id": "WIKI_76878",
+        "score": 19.082065130824652,
+        "rank": 34
+      },
+      {
+        "document_id": "WIKI_1186",
+        "score": 18.87945799742346,
+        "rank": 35
+      },
+      {
+        "document_id": "WIKI_55056",
+        "score": 18.82343330110015,
+        "rank": 36
+      },
+      {
+        "document_id": "WIKI_8019",
+        "score": 18.814197790228526,
+        "rank": 37
+      },
+      {
+        "document_id": "WIKI_66937",
+        "score": 18.765690755990487,
+        "rank": 38
+      },
+      {
+        "document_id": "WIKI_80268",
+        "score": 18.74314864771825,
+        "rank": 39
+      },
+      {
+        "document_id": "WIKI_1734",
+        "score": 18.73842894759105,
+        "rank": 40
+      },
+      {
+        "document_id": "WIKI_39626",
+        "score": 18.73627367791761,
+        "rank": 41
+      },
+      {
+        "document_id": "WIKI_92560",
+        "score": 18.679544298971848,
+        "rank": 42
+      },
+      {
+        "document_id": "WIKI_67057",
+        "score": 18.64948985181286,
+        "rank": 43
+      },
+      {
+        "document_id": "WIKI_1787",
+        "score": 18.56422016011409,
+        "rank": 44
+      },
+      {
+        "document_id": "WIKI_16066",
+        "score": 18.546572511665403,
+        "rank": 45
+      },
+      {
+        "document_id": "WIKI_64350",
+        "score": 18.53342186030931,
+        "rank": 46
+      },
+      {
+        "document_id": "WIKI_100515",
+        "score": 18.417995918371396,
+        "rank": 47
+      },
+      {
+        "document_id": "WIKI_98259",
+        "score": 18.39210035806411,
+        "rank": 48
+      },
+      {
+        "document_id": "WIKI_91202",
+        "score": 18.376065069248444,
+        "rank": 49
+      },
+      {
+        "document_id": "WIKI_95327",
+        "score": 18.36689504829946,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "WIKI_12722",
+      "WIKI_71205",
+      "WIKI_61538",
+      "WIKI_23726",
+      "WIKI_60796",
+      "WIKI_26201",
+      "WIKI_13884",
+      "WIKI_62190",
+      "WIKI_1477",
+      "WIKI_13586",
+      "WIKI_13080",
+      "WIKI_55104",
+      "WIKI_46589",
+      "WIKI_9321",
+      "WIKI_29748",
+      "WIKI_12699",
+      "WIKI_40877",
+      "WIKI_69268",
+      "WIKI_1782",
+      "WIKI_37138",
+      "WIKI_12150",
+      "WIKI_92306",
+      "WIKI_97920",
+      "WIKI_49573",
+      "WIKI_440",
+      "WIKI_2683",
+      "WIKI_29330",
+      "WIKI_65038",
+      "WIKI_998",
+      "WIKI_82673",
+      "WIKI_64209",
+      "WIKI_14821",
+      "WIKI_30066",
+      "WIKI_76878",
+      "WIKI_1186",
+      "WIKI_55056",
+      "WIKI_8019",
+      "WIKI_66937",
+      "WIKI_80268",
+      "WIKI_1734",
+      "WIKI_39626",
+      "WIKI_92560",
+      "WIKI_67057",
+      "WIKI_1787",
+      "WIKI_16066",
+      "WIKI_64350",
+      "WIKI_100515",
+      "WIKI_98259",
+      "WIKI_91202",
+      "WIKI_95327"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.12792789200000243,
+    "latencias_repeticoes_segundos": [
+      0.12751879200004623,
+      0.13349304700000175,
+      0.1226682689999734,
+      0.12792789200000243,
+      0.13114699800007656
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q1",
+    "arquitetura": "vetorial",
+    "results": [
+      {
+        "document_id": "WIKI_12722",
+        "score": 0.7646595239639282,
+        "rank": 1
+      },
+      {
+        "document_id": "WIKI_29748",
+        "score": 0.6978537440299988,
+        "rank": 2
+      },
+      {
+        "document_id": "WIKI_62189",
+        "score": 0.6741931438446045,
+        "rank": 3
+      },
+      {
+        "document_id": "WIKI_13080",
+        "score": 0.6021183133125305,
+        "rank": 4
+      },
+      {
+        "document_id": "WIKI_9569",
+        "score": 0.591016948223114,
+        "rank": 5
+      },
+      {
+        "document_id": "WIKI_51456",
+        "score": 0.5871976017951965,
+        "rank": 6
+      },
+      {
+        "document_id": "WIKI_17517",
+        "score": 0.5865201950073242,
+        "rank": 7
+      },
+      {
+        "document_id": "WIKI_17793",
+        "score": 0.5813208222389221,
+        "rank": 8
+      },
+      {
+        "document_id": "WIKI_66202",
+        "score": 0.5763679146766663,
+        "rank": 9
+      },
+      {
+        "document_id": "WIKI_1027",
+        "score": 0.5754156112670898,
+        "rank": 10
+      },
+      {
+        "document_id": "WIKI_91202",
+        "score": 0.5724960565567017,
+        "rank": 11
+      },
+      {
+        "document_id": "WIKI_257",
+        "score": 0.5678574442863464,
+        "rank": 12
+      },
+      {
+        "document_id": "WIKI_29266",
+        "score": 0.5537521839141846,
+        "rank": 13
+      },
+      {
+        "document_id": "WIKI_1181",
+        "score": 0.5533883571624756,
+        "rank": 14
+      },
+      {
+        "document_id": "WIKI_97920",
+        "score": 0.5530917644500732,
+        "rank": 15
+      },
+      {
+        "document_id": "WIKI_74786",
+        "score": 0.5493500828742981,
+        "rank": 16
+      },
+      {
+        "document_id": "WIKI_97136",
+        "score": 0.5409520268440247,
+        "rank": 17
+      },
+      {
+        "document_id": "WIKI_64229",
+        "score": 0.5403115153312683,
+        "rank": 18
+      },
+      {
+        "document_id": "WIKI_13586",
+        "score": 0.5288259387016296,
+        "rank": 19
+      },
+      {
+        "document_id": "WIKI_26893",
+        "score": 0.5255979895591736,
+        "rank": 20
+      },
+      {
+        "document_id": "WIKI_8101",
+        "score": 0.5217739343643188,
+        "rank": 21
+      },
+      {
+        "document_id": "WIKI_29226",
+        "score": 0.5193383097648621,
+        "rank": 22
+      },
+      {
+        "document_id": "WIKI_10709",
+        "score": 0.5145183205604553,
+        "rank": 23
+      },
+      {
+        "document_id": "WIKI_64350",
+        "score": 0.5114307403564453,
+        "rank": 24
+      },
+      {
+        "document_id": "WIKI_43677",
+        "score": 0.5107449293136597,
+        "rank": 25
+      },
+      {
+        "document_id": "WIKI_16066",
+        "score": 0.5092067122459412,
+        "rank": 26
+      },
+      {
+        "document_id": "WIKI_1809",
+        "score": 0.5066204071044922,
+        "rank": 27
+      },
+      {
+        "document_id": "WIKI_57610",
+        "score": 0.5055855512619019,
+        "rank": 28
+      },
+      {
+        "document_id": "WIKI_44013",
+        "score": 0.5044146776199341,
+        "rank": 29
+      },
+      {
+        "document_id": "WIKI_45465",
+        "score": 0.5042443871498108,
+        "rank": 30
+      },
+      {
+        "document_id": "WIKI_495",
+        "score": 0.5039560198783875,
+        "rank": 31
+      },
+      {
+        "document_id": "WIKI_40040",
+        "score": 0.5022801756858826,
+        "rank": 32
+      },
+      {
+        "document_id": "WIKI_37138",
+        "score": 0.5017170906066895,
+        "rank": 33
+      },
+      {
+        "document_id": "WIKI_6949",
+        "score": 0.5003090500831604,
+        "rank": 34
+      },
+      {
+        "document_id": "WIKI_2683",
+        "score": 0.49993765354156494,
+        "rank": 35
+      },
+      {
+        "document_id": "WIKI_62119",
+        "score": 0.49971139430999756,
+        "rank": 36
+      },
+      {
+        "document_id": "WIKI_39294",
+        "score": 0.49864256381988525,
+        "rank": 37
+      },
+      {
+        "document_id": "WIKI_51165",
+        "score": 0.4956075847148895,
+        "rank": 38
+      },
+      {
+        "document_id": "WIKI_77166",
+        "score": 0.4919748306274414,
+        "rank": 39
+      },
+      {
+        "document_id": "WIKI_57112",
+        "score": 0.49139660596847534,
+        "rank": 40
+      },
+      {
+        "document_id": "WIKI_66937",
+        "score": 0.4902384877204895,
+        "rank": 41
+      },
+      {
+        "document_id": "WIKI_5273",
+        "score": 0.4842202067375183,
+        "rank": 42
+      },
+      {
+        "document_id": "WIKI_26651",
+        "score": 0.4841722548007965,
+        "rank": 43
+      },
+      {
+        "document_id": "WIKI_42525",
+        "score": 0.4827369451522827,
+        "rank": 44
+      },
+      {
+        "document_id": "WIKI_10400",
+        "score": 0.47965893149375916,
+        "rank": 45
+      },
+      {
+        "document_id": "WIKI_1060",
+        "score": 0.4757923185825348,
+        "rank": 46
+      },
+      {
+        "document_id": "WIKI_14002",
+        "score": 0.475374311208725,
+        "rank": 47
+      },
+      {
+        "document_id": "WIKI_69870",
+        "score": 0.4748917818069458,
+        "rank": 48
+      },
+      {
+        "document_id": "WIKI_55435",
+        "score": 0.47410476207733154,
+        "rank": 49
+      },
+      {
+        "document_id": "WIKI_13929",
+        "score": 0.47403398156166077,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "WIKI_12722",
+      "WIKI_29748",
+      "WIKI_62189",
+      "WIKI_13080",
+      "WIKI_9569",
+      "WIKI_51456",
+      "WIKI_17517",
+      "WIKI_17793",
+      "WIKI_66202",
+      "WIKI_1027",
+      "WIKI_91202",
+      "WIKI_257",
+      "WIKI_29266",
+      "WIKI_1181",
+      "WIKI_97920",
+      "WIKI_74786",
+      "WIKI_97136",
+      "WIKI_64229",
+      "WIKI_13586",
+      "WIKI_26893",
+      "WIKI_8101",
+      "WIKI_29226",
+      "WIKI_10709",
+      "WIKI_64350",
+      "WIKI_43677",
+      "WIKI_16066",
+      "WIKI_1809",
+      "WIKI_57610",
+      "WIKI_44013",
+      "WIKI_45465",
+      "WIKI_495",
+      "WIKI_40040",
+      "WIKI_37138",
+      "WIKI_6949",
+      "WIKI_2683",
+      "WIKI_62119",
+      "WIKI_39294",
+      "WIKI_51165",
+      "WIKI_77166",
+      "WIKI_57112",
+      "WIKI_66937",
+      "WIKI_5273",
+      "WIKI_26651",
+      "WIKI_42525",
+      "WIKI_10400",
+      "WIKI_1060",
+      "WIKI_14002",
+      "WIKI_69870",
+      "WIKI_55435",
+      "WIKI_13929"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.013276836999921215,
+    "latencias_repeticoes_segundos": [
+      0.01387057299996286,
+      0.013283426000043619,
+      0.012861477000001287,
+      0.013276836999921215,
+      0.013221701000020403
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q2",
+    "arquitetura": "booleano",
+    "document_ids": [
+      "WIKI_1685",
+      "WIKI_5850",
+      "WIKI_28790"
+    ],
+    "ranked": false,
+    "total_recuperado": 3,
+    "latencia_segundos": 1.3855033410000033,
+    "latencias_repeticoes_segundos": [
+      1.3878713980000157,
+      1.3677489119999109,
+      1.3664442349999035,
+      1.3855033410000033,
+      2.078216688999987
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q2",
+    "arquitetura": "bm25",
+    "results": [
+      {
+        "document_id": "WIKI_1685",
+        "score": 33.259085949837484,
+        "rank": 1
+      },
+      {
+        "document_id": "WIKI_2683",
+        "score": 32.92429200246111,
+        "rank": 2
+      },
+      {
+        "document_id": "WIKI_5850",
+        "score": 31.094246328323308,
+        "rank": 3
+      },
+      {
+        "document_id": "WIKI_1695",
+        "score": 30.116777964869783,
+        "rank": 4
+      },
+      {
+        "document_id": "WIKI_16478",
+        "score": 29.669383239886525,
+        "rank": 5
+      },
+      {
+        "document_id": "WIKI_12722",
+        "score": 29.520723390232867,
+        "rank": 6
+      },
+      {
+        "document_id": "WIKI_69620",
+        "score": 29.252067426164636,
+        "rank": 7
+      },
+      {
+        "document_id": "WIKI_66807",
+        "score": 28.875997667178645,
+        "rank": 8
+      },
+      {
+        "document_id": "WIKI_1176",
+        "score": 28.829919904323624,
+        "rank": 9
+      },
+      {
+        "document_id": "WIKI_63917",
+        "score": 28.674718264444458,
+        "rank": 10
+      },
+      {
+        "document_id": "WIKI_66044",
+        "score": 28.601786305824692,
+        "rank": 11
+      },
+      {
+        "document_id": "WIKI_2751",
+        "score": 28.52350022469676,
+        "rank": 12
+      },
+      {
+        "document_id": "WIKI_69969",
+        "score": 28.266267404423836,
+        "rank": 13
+      },
+      {
+        "document_id": "WIKI_1202",
+        "score": 27.967194834079287,
+        "rank": 14
+      },
+      {
+        "document_id": "WIKI_29393",
+        "score": 27.09550667454219,
+        "rank": 15
+      },
+      {
+        "document_id": "WIKI_7435",
+        "score": 26.87952485279326,
+        "rank": 16
+      },
+      {
+        "document_id": "WIKI_31842",
+        "score": 26.85595593166373,
+        "rank": 17
+      },
+      {
+        "document_id": "WIKI_53459",
+        "score": 26.736464262338934,
+        "rank": 18
+      },
+      {
+        "document_id": "WIKI_44876",
+        "score": 26.506752987382477,
+        "rank": 19
+      },
+      {
+        "document_id": "WIKI_53477",
+        "score": 26.497818720498707,
+        "rank": 20
+      },
+      {
+        "document_id": "WIKI_49095",
+        "score": 26.49013646227594,
+        "rank": 21
+      },
+      {
+        "document_id": "WIKI_64229",
+        "score": 26.440784790777972,
+        "rank": 22
+      },
+      {
+        "document_id": "WIKI_66507",
+        "score": 26.334943750819626,
+        "rank": 23
+      },
+      {
+        "document_id": "WIKI_803",
+        "score": 26.3278472104494,
+        "rank": 24
+      },
+      {
+        "document_id": "WIKI_1900",
+        "score": 26.284043458612693,
+        "rank": 25
+      },
+      {
+        "document_id": "WIKI_1734",
+        "score": 26.239128731491093,
+        "rank": 26
+      },
+      {
+        "document_id": "WIKI_61195",
+        "score": 26.205726926597787,
+        "rank": 27
+      },
+      {
+        "document_id": "WIKI_5743",
+        "score": 26.20279444473253,
+        "rank": 28
+      },
+      {
+        "document_id": "WIKI_18169",
+        "score": 26.19891621964377,
+        "rank": 29
+      },
+      {
+        "document_id": "WIKI_73789",
+        "score": 26.19452935604427,
+        "rank": 30
+      },
+      {
+        "document_id": "WIKI_54552",
+        "score": 26.183727463794924,
+        "rank": 31
+      },
+      {
+        "document_id": "WIKI_51373",
+        "score": 26.109703660987712,
+        "rank": 32
+      },
+      {
+        "document_id": "WIKI_31790",
+        "score": 26.023743990555566,
+        "rank": 33
+      },
+      {
+        "document_id": "WIKI_19379",
+        "score": 25.90361285595587,
+        "rank": 34
+      },
+      {
+        "document_id": "WIKI_48560",
+        "score": 25.801569668616064,
+        "rank": 35
+      },
+      {
+        "document_id": "WIKI_49573",
+        "score": 25.7726816537418,
+        "rank": 36
+      },
+      {
+        "document_id": "WIKI_65289",
+        "score": 25.768804536634583,
+        "rank": 37
+      },
+      {
+        "document_id": "WIKI_67057",
+        "score": 25.675838106746404,
+        "rank": 38
+      },
+      {
+        "document_id": "WIKI_29524",
+        "score": 25.662476648724308,
+        "rank": 39
+      },
+      {
+        "document_id": "WIKI_60287",
+        "score": 25.60916867002697,
+        "rank": 40
+      },
+      {
+        "document_id": "WIKI_54264",
+        "score": 25.6029576438239,
+        "rank": 41
+      },
+      {
+        "document_id": "WIKI_50789",
+        "score": 25.49479806371215,
+        "rank": 42
+      },
+      {
+        "document_id": "WIKI_91335",
+        "score": 25.454781983701626,
+        "rank": 43
+      },
+      {
+        "document_id": "WIKI_26808",
+        "score": 25.42351207326366,
+        "rank": 44
+      },
+      {
+        "document_id": "WIKI_46605",
+        "score": 25.281084755737233,
+        "rank": 45
+      },
+      {
+        "document_id": "WIKI_21634",
+        "score": 25.27326471939152,
+        "rank": 46
+      },
+      {
+        "document_id": "WIKI_63799",
+        "score": 25.24542644861707,
+        "rank": 47
+      },
+      {
+        "document_id": "WIKI_28790",
+        "score": 25.16843487757587,
+        "rank": 48
+      },
+      {
+        "document_id": "WIKI_11043",
+        "score": 25.064369334266114,
+        "rank": 49
+      },
+      {
+        "document_id": "WIKI_71557",
+        "score": 24.97490308604379,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "WIKI_1685",
+      "WIKI_2683",
+      "WIKI_5850",
+      "WIKI_1695",
+      "WIKI_16478",
+      "WIKI_12722",
+      "WIKI_69620",
+      "WIKI_66807",
+      "WIKI_1176",
+      "WIKI_63917",
+      "WIKI_66044",
+      "WIKI_2751",
+      "WIKI_69969",
+      "WIKI_1202",
+      "WIKI_29393",
+      "WIKI_7435",
+      "WIKI_31842",
+      "WIKI_53459",
+      "WIKI_44876",
+      "WIKI_53477",
+      "WIKI_49095",
+      "WIKI_64229",
+      "WIKI_66507",
+      "WIKI_803",
+      "WIKI_1900",
+      "WIKI_1734",
+      "WIKI_61195",
+      "WIKI_5743",
+      "WIKI_18169",
+      "WIKI_73789",
+      "WIKI_54552",
+      "WIKI_51373",
+      "WIKI_31790",
+      "WIKI_19379",
+      "WIKI_48560",
+      "WIKI_49573",
+      "WIKI_65289",
+      "WIKI_67057",
+      "WIKI_29524",
+      "WIKI_60287",
+      "WIKI_54264",
+      "WIKI_50789",
+      "WIKI_91335",
+      "WIKI_26808",
+      "WIKI_46605",
+      "WIKI_21634",
+      "WIKI_63799",
+      "WIKI_28790",
+      "WIKI_11043",
+      "WIKI_71557"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.20905914799993752,
+    "latencias_repeticoes_segundos": [
+      0.1988861329999736,
+      0.19628445200009992,
+      0.21252202400000897,
+      0.24848945300004743,
+      0.20905914799993752
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q2",
+    "arquitetura": "vetorial",
+    "results": [
+      {
+        "document_id": "WIKI_70310",
+        "score": 0.5683895945549011,
+        "rank": 1
+      },
+      {
+        "document_id": "WIKI_1685",
+        "score": 0.508781909942627,
+        "rank": 2
+      },
+      {
+        "document_id": "WIKI_44013",
+        "score": 0.4969942569732666,
+        "rank": 3
+      },
+      {
+        "document_id": "WIKI_257",
+        "score": 0.49549630284309387,
+        "rank": 4
+      },
+      {
+        "document_id": "WIKI_14002",
+        "score": 0.4953973889350891,
+        "rank": 5
+      },
+      {
+        "document_id": "WIKI_495",
+        "score": 0.49011361598968506,
+        "rank": 6
+      },
+      {
+        "document_id": "WIKI_57610",
+        "score": 0.4852517545223236,
+        "rank": 7
+      },
+      {
+        "document_id": "WIKI_29266",
+        "score": 0.48396939039230347,
+        "rank": 8
+      },
+      {
+        "document_id": "WIKI_2683",
+        "score": 0.48381125926971436,
+        "rank": 9
+      },
+      {
+        "document_id": "WIKI_26808",
+        "score": 0.4767795503139496,
+        "rank": 10
+      },
+      {
+        "document_id": "WIKI_72847",
+        "score": 0.47503724694252014,
+        "rank": 11
+      },
+      {
+        "document_id": "WIKI_81542",
+        "score": 0.47489991784095764,
+        "rank": 12
+      },
+      {
+        "document_id": "WIKI_12722",
+        "score": 0.47221770882606506,
+        "rank": 13
+      },
+      {
+        "document_id": "WIKI_7328",
+        "score": 0.46260014176368713,
+        "rank": 14
+      },
+      {
+        "document_id": "WIKI_5405",
+        "score": 0.4578656554222107,
+        "rank": 15
+      },
+      {
+        "document_id": "WIKI_100768",
+        "score": 0.4559987485408783,
+        "rank": 16
+      },
+      {
+        "document_id": "WIKI_96494",
+        "score": 0.4521060585975647,
+        "rank": 17
+      },
+      {
+        "document_id": "WIKI_65849",
+        "score": 0.4513886570930481,
+        "rank": 18
+      },
+      {
+        "document_id": "WIKI_1900",
+        "score": 0.45022791624069214,
+        "rank": 19
+      },
+      {
+        "document_id": "WIKI_61938",
+        "score": 0.44932296872138977,
+        "rank": 20
+      },
+      {
+        "document_id": "WIKI_1176",
+        "score": 0.4488866925239563,
+        "rank": 21
+      },
+      {
+        "document_id": "WIKI_66937",
+        "score": 0.4487421214580536,
+        "rank": 22
+      },
+      {
+        "document_id": "WIKI_46739",
+        "score": 0.44647449254989624,
+        "rank": 23
+      },
+      {
+        "document_id": "WIKI_40040",
+        "score": 0.4453098475933075,
+        "rank": 24
+      },
+      {
+        "document_id": "WIKI_46625",
+        "score": 0.4415223002433777,
+        "rank": 25
+      },
+      {
+        "document_id": "WIKI_18412",
+        "score": 0.4400850236415863,
+        "rank": 26
+      },
+      {
+        "document_id": "WIKI_45306",
+        "score": 0.4385324716567993,
+        "rank": 27
+      },
+      {
+        "document_id": "WIKI_17569",
+        "score": 0.4383973777294159,
+        "rank": 28
+      },
+      {
+        "document_id": "WIKI_90433",
+        "score": 0.43528297543525696,
+        "rank": 29
+      },
+      {
+        "document_id": "WIKI_31790",
+        "score": 0.43340635299682617,
+        "rank": 30
+      },
+      {
+        "document_id": "WIKI_13229",
+        "score": 0.4317687749862671,
+        "rank": 31
+      },
+      {
+        "document_id": "WIKI_38674",
+        "score": 0.430921345949173,
+        "rank": 32
+      },
+      {
+        "document_id": "WIKI_37983",
+        "score": 0.42990484833717346,
+        "rank": 33
+      },
+      {
+        "document_id": "WIKI_55647",
+        "score": 0.4299006462097168,
+        "rank": 34
+      },
+      {
+        "document_id": "WIKI_46878",
+        "score": 0.4295406639575958,
+        "rank": 35
+      },
+      {
+        "document_id": "WIKI_346",
+        "score": 0.42664119601249695,
+        "rank": 36
+      },
+      {
+        "document_id": "WIKI_1027",
+        "score": 0.4262866675853729,
+        "rank": 37
+      },
+      {
+        "document_id": "WIKI_84265",
+        "score": 0.4254952073097229,
+        "rank": 38
+      },
+      {
+        "document_id": "WIKI_1809",
+        "score": 0.4250333607196808,
+        "rank": 39
+      },
+      {
+        "document_id": "WIKI_74786",
+        "score": 0.4238518476486206,
+        "rank": 40
+      },
+      {
+        "document_id": "WIKI_51456",
+        "score": 0.42344045639038086,
+        "rank": 41
+      },
+      {
+        "document_id": "WIKI_18534",
+        "score": 0.4207880198955536,
+        "rank": 42
+      },
+      {
+        "document_id": "WIKI_53528",
+        "score": 0.4203900992870331,
+        "rank": 43
+      },
+      {
+        "document_id": "WIKI_9291",
+        "score": 0.4195300340652466,
+        "rank": 44
+      },
+      {
+        "document_id": "WIKI_67287",
+        "score": 0.41914457082748413,
+        "rank": 45
+      },
+      {
+        "document_id": "WIKI_46653",
+        "score": 0.41854557394981384,
+        "rank": 46
+      },
+      {
+        "document_id": "WIKI_10709",
+        "score": 0.41753503680229187,
+        "rank": 47
+      },
+      {
+        "document_id": "WIKI_24419",
+        "score": 0.41600918769836426,
+        "rank": 48
+      },
+      {
+        "document_id": "WIKI_52383",
+        "score": 0.41532474756240845,
+        "rank": 49
+      },
+      {
+        "document_id": "WIKI_58718",
+        "score": 0.41435956954956055,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "WIKI_70310",
+      "WIKI_1685",
+      "WIKI_44013",
+      "WIKI_257",
+      "WIKI_14002",
+      "WIKI_495",
+      "WIKI_57610",
+      "WIKI_29266",
+      "WIKI_2683",
+      "WIKI_26808",
+      "WIKI_72847",
+      "WIKI_81542",
+      "WIKI_12722",
+      "WIKI_7328",
+      "WIKI_5405",
+      "WIKI_100768",
+      "WIKI_96494",
+      "WIKI_65849",
+      "WIKI_1900",
+      "WIKI_61938",
+      "WIKI_1176",
+      "WIKI_66937",
+      "WIKI_46739",
+      "WIKI_40040",
+      "WIKI_46625",
+      "WIKI_18412",
+      "WIKI_45306",
+      "WIKI_17569",
+      "WIKI_90433",
+      "WIKI_31790",
+      "WIKI_13229",
+      "WIKI_38674",
+      "WIKI_37983",
+      "WIKI_55647",
+      "WIKI_46878",
+      "WIKI_346",
+      "WIKI_1027",
+      "WIKI_84265",
+      "WIKI_1809",
+      "WIKI_74786",
+      "WIKI_51456",
+      "WIKI_18534",
+      "WIKI_53528",
+      "WIKI_9291",
+      "WIKI_67287",
+      "WIKI_46653",
+      "WIKI_10709",
+      "WIKI_24419",
+      "WIKI_52383",
+      "WIKI_58718"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.020575245999907565,
+    "latencias_repeticoes_segundos": [
+      0.020575245999907565,
+      0.02200815200001216,
+      0.01759440499995435,
+      0.018345976999967206,
+      0.02069245299992417
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q3",
+    "arquitetura": "booleano",
+    "document_ids": [
+      "WIKI_257",
+      "WIKI_346",
+      "WIKI_434",
+      "WIKI_440",
+      "WIKI_442",
+      "WIKI_444",
+      "WIKI_452",
+      "WIKI_488",
+      "WIKI_495",
+      "WIKI_524",
+      "WIKI_575",
+      "WIKI_625",
+      "WIKI_628",
+      "WIKI_740",
+      "WIKI_744",
+      "WIKI_745",
+      "WIKI_754",
+      "WIKI_758",
+      "WIKI_765",
+      "WIKI_803",
+      "WIKI_805",
+      "WIKI_826",
+      "WIKI_828",
+      "WIKI_897",
+      "WIKI_969",
+      "WIKI_976",
+      "WIKI_998",
+      "WIKI_1054",
+      "WIKI_1073",
+      "WIKI_1111",
+      "WIKI_1169",
+      "WIKI_1202",
+      "WIKI_1218",
+      "WIKI_1299",
+      "WIKI_1357",
+      "WIKI_1404",
+      "WIKI_1413",
+      "WIKI_1467",
+      "WIKI_1547",
+      "WIKI_1644",
+      "WIKI_1782",
+      "WIKI_1787",
+      "WIKI_1810",
+      "WIKI_1834",
+      "WIKI_1862",
+      "WIKI_1863",
+      "WIKI_1890",
+      "WIKI_1925",
+      "WIKI_2635",
+      "WIKI_2683",
+      "WIKI_3754",
+      "WIKI_4039",
+      "WIKI_5098",
+      "WIKI_5310",
+      "WIKI_5315",
+      "WIKI_5598",
+      "WIKI_5759",
+      "WIKI_5772",
+      "WIKI_5962",
+      "WIKI_5973",
+      "WIKI_6319",
+      "WIKI_6342",
+      "WIKI_6518",
+      "WIKI_6533",
+      "WIKI_6745",
+      "WIKI_6840",
+      "WIKI_6949",
+      "WIKI_7052",
+      "WIKI_7324",
+      "WIKI_7330",
+      "WIKI_7346",
+      "WIKI_7935",
+      "WIKI_8019",
+      "WIKI_8254",
+      "WIKI_8378",
+      "WIKI_8825",
+      "WIKI_8870",
+      "WIKI_8873",
+      "WIKI_9167",
+      "WIKI_9253",
+      "WIKI_9494",
+      "WIKI_9540",
+      "WIKI_9688",
+      "WIKI_9692",
+      "WIKI_9909",
+      "WIKI_10106",
+      "WIKI_10159",
+      "WIKI_10294",
+      "WIKI_10335",
+      "WIKI_10476",
+      "WIKI_11231",
+      "WIKI_11465",
+      "WIKI_11640",
+      "WIKI_12150",
+      "WIKI_12358",
+      "WIKI_12424",
+      "WIKI_12699",
+      "WIKI_12700",
+      "WIKI_12722",
+      "WIKI_12785",
+      "WIKI_12982",
+      "WIKI_13265",
+      "WIKI_13537",
+      "WIKI_13599",
+      "WIKI_13884",
+      "WIKI_13923",
+      "WIKI_13957",
+      "WIKI_14095",
+      "WIKI_14293",
+      "WIKI_16056",
+      "WIKI_16066",
+      "WIKI_16342",
+      "WIKI_16469",
+      "WIKI_17462",
+      "WIKI_17495",
+      "WIKI_17598",
+      "WIKI_17691",
+      "WIKI_18169",
+      "WIKI_18277",
+      "WIKI_18319",
+      "WIKI_18412",
+      "WIKI_18451",
+      "WIKI_18521",
+      "WIKI_19022",
+      "WIKI_19379",
+      "WIKI_19787",
+      "WIKI_19879",
+      "WIKI_21175",
+      "WIKI_21494",
+      "WIKI_21957",
+      "WIKI_21978",
+      "WIKI_22170",
+      "WIKI_22647",
+      "WIKI_22876",
+      "WIKI_22889",
+      "WIKI_22920",
+      "WIKI_22982",
+      "WIKI_23173",
+      "WIKI_24130",
+      "WIKI_24496",
+      "WIKI_24517",
+      "WIKI_24826",
+      "WIKI_25123",
+      "WIKI_25213",
+      "WIKI_25338",
+      "WIKI_25356",
+      "WIKI_25362",
+      "WIKI_25573",
+      "WIKI_25739",
+      "WIKI_25760",
+      "WIKI_25841",
+      "WIKI_25923",
+      "WIKI_25951",
+      "WIKI_26094",
+      "WIKI_26201",
+      "WIKI_26210",
+      "WIKI_26249",
+      "WIKI_26411",
+      "WIKI_26848",
+      "WIKI_27023",
+      "WIKI_28672",
+      "WIKI_28722",
+      "WIKI_28944",
+      "WIKI_28958",
+      "WIKI_28977",
+      "WIKI_29057",
+      "WIKI_29219",
+      "WIKI_29226",
+      "WIKI_29266",
+      "WIKI_29440",
+      "WIKI_29846",
+      "WIKI_29880",
+      "WIKI_30799",
+      "WIKI_31180",
+      "WIKI_31742",
+      "WIKI_31790",
+      "WIKI_31846",
+      "WIKI_32138",
+      "WIKI_32165",
+      "WIKI_32355",
+      "WIKI_32598",
+      "WIKI_32632",
+      "WIKI_32800",
+      "WIKI_32862",
+      "WIKI_33747",
+      "WIKI_33800",
+      "WIKI_34197",
+      "WIKI_34436",
+      "WIKI_34520",
+      "WIKI_34620",
+      "WIKI_34775",
+      "WIKI_34877",
+      "WIKI_34889",
+      "WIKI_34917",
+      "WIKI_34924",
+      "WIKI_35062",
+      "WIKI_35188",
+      "WIKI_35572",
+      "WIKI_35586",
+      "WIKI_35606",
+      "WIKI_36122",
+      "WIKI_36193",
+      "WIKI_36221",
+      "WIKI_36901",
+      "WIKI_37143",
+      "WIKI_37513",
+      "WIKI_37696",
+      "WIKI_37744",
+      "WIKI_37894",
+      "WIKI_37935",
+      "WIKI_37942",
+      "WIKI_38056",
+      "WIKI_38143",
+      "WIKI_38343",
+      "WIKI_38714",
+      "WIKI_38881",
+      "WIKI_39613",
+      "WIKI_39686",
+      "WIKI_41638",
+      "WIKI_42104",
+      "WIKI_42864",
+      "WIKI_42884",
+      "WIKI_42890",
+      "WIKI_43039",
+      "WIKI_43113",
+      "WIKI_43494",
+      "WIKI_43591",
+      "WIKI_43746",
+      "WIKI_43891",
+      "WIKI_44013",
+      "WIKI_44065",
+      "WIKI_44067",
+      "WIKI_44387",
+      "WIKI_45280",
+      "WIKI_45378",
+      "WIKI_45411",
+      "WIKI_45480",
+      "WIKI_45511",
+      "WIKI_45628",
+      "WIKI_45659",
+      "WIKI_45769",
+      "WIKI_46091",
+      "WIKI_46739",
+      "WIKI_46865",
+      "WIKI_47216",
+      "WIKI_47603",
+      "WIKI_47790",
+      "WIKI_47906",
+      "WIKI_47938",
+      "WIKI_48440",
+      "WIKI_48744",
+      "WIKI_49056",
+      "WIKI_49177",
+      "WIKI_49345",
+      "WIKI_49548",
+      "WIKI_49596",
+      "WIKI_49670",
+      "WIKI_50283",
+      "WIKI_50628",
+      "WIKI_50728",
+      "WIKI_50789",
+      "WIKI_51090",
+      "WIKI_51214",
+      "WIKI_51605",
+      "WIKI_51848",
+      "WIKI_52112",
+      "WIKI_52216",
+      "WIKI_52341",
+      "WIKI_52480",
+      "WIKI_52520",
+      "WIKI_52637",
+      "WIKI_52859",
+      "WIKI_53528",
+      "WIKI_53664",
+      "WIKI_54218",
+      "WIKI_54910",
+      "WIKI_55104",
+      "WIKI_55286",
+      "WIKI_55375",
+      "WIKI_55647",
+      "WIKI_55797",
+      "WIKI_55989",
+      "WIKI_56521",
+      "WIKI_56834",
+      "WIKI_57064",
+      "WIKI_57065",
+      "WIKI_57069",
+      "WIKI_57112",
+      "WIKI_57135",
+      "WIKI_57610",
+      "WIKI_58284",
+      "WIKI_58730",
+      "WIKI_58749",
+      "WIKI_59042",
+      "WIKI_59201",
+      "WIKI_59258",
+      "WIKI_59329",
+      "WIKI_59374",
+      "WIKI_59378",
+      "WIKI_59528",
+      "WIKI_59530",
+      "WIKI_59534",
+      "WIKI_59597",
+      "WIKI_59765",
+      "WIKI_59915",
+      "WIKI_59925",
+      "WIKI_60014",
+      "WIKI_60140",
+      "WIKI_60301",
+      "WIKI_60665",
+      "WIKI_60796",
+      "WIKI_61057",
+      "WIKI_61554",
+      "WIKI_61575",
+      "WIKI_61805",
+      "WIKI_61904",
+      "WIKI_61979",
+      "WIKI_62375",
+      "WIKI_63248",
+      "WIKI_63962",
+      "WIKI_64102",
+      "WIKI_64350",
+      "WIKI_64464",
+      "WIKI_64467",
+      "WIKI_64730",
+      "WIKI_65038",
+      "WIKI_65322",
+      "WIKI_66019",
+      "WIKI_66501",
+      "WIKI_66507",
+      "WIKI_67027",
+      "WIKI_67334",
+      "WIKI_67970",
+      "WIKI_68255",
+      "WIKI_68715",
+      "WIKI_69130",
+      "WIKI_69283",
+      "WIKI_69464",
+      "WIKI_69696",
+      "WIKI_70126",
+      "WIKI_70972",
+      "WIKI_71095",
+      "WIKI_71099",
+      "WIKI_71203",
+      "WIKI_71205",
+      "WIKI_71258",
+      "WIKI_71399",
+      "WIKI_71557",
+      "WIKI_72341",
+      "WIKI_72460",
+      "WIKI_72481",
+      "WIKI_72666",
+      "WIKI_72935",
+      "WIKI_73763",
+      "WIKI_74062",
+      "WIKI_74617",
+      "WIKI_75638",
+      "WIKI_76794",
+      "WIKI_76957",
+      "WIKI_77058",
+      "WIKI_77166",
+      "WIKI_78045",
+      "WIKI_78183",
+      "WIKI_78374",
+      "WIKI_79770",
+      "WIKI_80985",
+      "WIKI_82673",
+      "WIKI_83105",
+      "WIKI_83216",
+      "WIKI_83487",
+      "WIKI_83576",
+      "WIKI_83935",
+      "WIKI_85152",
+      "WIKI_89505",
+      "WIKI_91294",
+      "WIKI_91487",
+      "WIKI_91513",
+      "WIKI_91668",
+      "WIKI_91728",
+      "WIKI_91969",
+      "WIKI_92453",
+      "WIKI_92473",
+      "WIKI_92735",
+      "WIKI_93421",
+      "WIKI_93684",
+      "WIKI_94336",
+      "WIKI_94946",
+      "WIKI_95327",
+      "WIKI_96003",
+      "WIKI_97105",
+      "WIKI_98115",
+      "WIKI_98435",
+      "WIKI_98571",
+      "WIKI_98845",
+      "WIKI_98874",
+      "WIKI_99447",
+      "WIKI_99499",
+      "WIKI_99825",
+      "WIKI_99895",
+      "WIKI_100579",
+      "WIKI_101081",
+      "WIKI_101615",
+      "WIKI_102276"
+    ],
+    "ranked": false,
+    "total_recuperado": 403,
+    "latencia_segundos": 0.9834648600000264,
+    "latencias_repeticoes_segundos": [
+      0.9879494589999922,
+      0.9834648600000264,
+      0.9827711330000284,
+      0.9828628249999838,
+      0.9839852400000382
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q3",
+    "arquitetura": "bm25",
+    "results": [
+      {
+        "document_id": "WIKI_495",
+        "score": 30.470254414609535,
+        "rank": 1
+      },
+      {
+        "document_id": "WIKI_65038",
+        "score": 30.214074240905752,
+        "rank": 2
+      },
+      {
+        "document_id": "WIKI_46865",
+        "score": 28.732011049408563,
+        "rank": 3
+      },
+      {
+        "document_id": "WIKI_71205",
+        "score": 27.978270246708895,
+        "rank": 4
+      },
+      {
+        "document_id": "WIKI_60796",
+        "score": 25.580434434852073,
+        "rank": 5
+      },
+      {
+        "document_id": "WIKI_59915",
+        "score": 25.323117997885504,
+        "rank": 6
+      },
+      {
+        "document_id": "WIKI_16066",
+        "score": 25.060345603676065,
+        "rank": 7
+      },
+      {
+        "document_id": "WIKI_23652",
+        "score": 24.415024373488894,
+        "rank": 8
+      },
+      {
+        "document_id": "WIKI_44013",
+        "score": 24.079939462708925,
+        "rank": 9
+      },
+      {
+        "document_id": "WIKI_8873",
+        "score": 24.050545259727507,
+        "rank": 10
+      },
+      {
+        "document_id": "WIKI_46081",
+        "score": 23.94079404738434,
+        "rank": 11
+      },
+      {
+        "document_id": "WIKI_2683",
+        "score": 23.88788082719482,
+        "rank": 12
+      },
+      {
+        "document_id": "WIKI_92560",
+        "score": 23.86786886755414,
+        "rank": 13
+      },
+      {
+        "document_id": "WIKI_73763",
+        "score": 23.843066314384373,
+        "rank": 14
+      },
+      {
+        "document_id": "WIKI_34304",
+        "score": 23.665993171690268,
+        "rank": 15
+      },
+      {
+        "document_id": "WIKI_10159",
+        "score": 23.515130594935385,
+        "rank": 16
+      },
+      {
+        "document_id": "WIKI_66937",
+        "score": 23.500382614705096,
+        "rank": 17
+      },
+      {
+        "document_id": "WIKI_39990",
+        "score": 23.484697735595923,
+        "rank": 18
+      },
+      {
+        "document_id": "WIKI_101615",
+        "score": 23.41632323463351,
+        "rank": 19
+      },
+      {
+        "document_id": "WIKI_55753",
+        "score": 23.398330435522457,
+        "rank": 20
+      },
+      {
+        "document_id": "WIKI_52637",
+        "score": 23.386483870830144,
+        "rank": 21
+      },
+      {
+        "document_id": "WIKI_5962",
+        "score": 23.32667573409995,
+        "rank": 22
+      },
+      {
+        "document_id": "WIKI_36475",
+        "score": 23.32124582848771,
+        "rank": 23
+      },
+      {
+        "document_id": "WIKI_24836",
+        "score": 23.114675493369244,
+        "rank": 24
+      },
+      {
+        "document_id": "WIKI_82673",
+        "score": 23.08560071326761,
+        "rank": 25
+      },
+      {
+        "document_id": "WIKI_26201",
+        "score": 22.982075693967715,
+        "rank": 26
+      },
+      {
+        "document_id": "WIKI_12722",
+        "score": 22.944328854912744,
+        "rank": 27
+      },
+      {
+        "document_id": "WIKI_47790",
+        "score": 22.834629401143168,
+        "rank": 28
+      },
+      {
+        "document_id": "WIKI_71099",
+        "score": 22.8344766966241,
+        "rank": 29
+      },
+      {
+        "document_id": "WIKI_54218",
+        "score": 22.783419928670277,
+        "rank": 30
+      },
+      {
+        "document_id": "WIKI_38881",
+        "score": 22.77935578799125,
+        "rank": 31
+      },
+      {
+        "document_id": "WIKI_61199",
+        "score": 22.742405129683277,
+        "rank": 32
+      },
+      {
+        "document_id": "WIKI_59530",
+        "score": 22.56101415024223,
+        "rank": 33
+      },
+      {
+        "document_id": "WIKI_28722",
+        "score": 22.492428269497776,
+        "rank": 34
+      },
+      {
+        "document_id": "WIKI_38343",
+        "score": 22.405638722792215,
+        "rank": 35
+      },
+      {
+        "document_id": "WIKI_100515",
+        "score": 22.379270212328553,
+        "rank": 36
+      },
+      {
+        "document_id": "WIKI_71385",
+        "score": 22.3764534043445,
+        "rank": 37
+      },
+      {
+        "document_id": "WIKI_1477",
+        "score": 22.374564244050323,
+        "rank": 38
+      },
+      {
+        "document_id": "WIKI_24846",
+        "score": 22.355338918408957,
+        "rank": 39
+      },
+      {
+        "document_id": "WIKI_38714",
+        "score": 22.35126161094765,
+        "rank": 40
+      },
+      {
+        "document_id": "WIKI_47906",
+        "score": 22.32026314812514,
+        "rank": 41
+      },
+      {
+        "document_id": "WIKI_95327",
+        "score": 22.288255723867405,
+        "rank": 42
+      },
+      {
+        "document_id": "WIKI_44066",
+        "score": 22.271476970507134,
+        "rank": 43
+      },
+      {
+        "document_id": "WIKI_9493",
+        "score": 22.246960743003733,
+        "rank": 44
+      },
+      {
+        "document_id": "WIKI_49256",
+        "score": 22.212649747671172,
+        "rank": 45
+      },
+      {
+        "document_id": "WIKI_24496",
+        "score": 22.21068679478951,
+        "rank": 46
+      },
+      {
+        "document_id": "WIKI_55647",
+        "score": 22.14074548653549,
+        "rank": 47
+      },
+      {
+        "document_id": "WIKI_59329",
+        "score": 21.994945582471956,
+        "rank": 48
+      },
+      {
+        "document_id": "WIKI_13923",
+        "score": 21.97675329936064,
+        "rank": 49
+      },
+      {
+        "document_id": "WIKI_71557",
+        "score": 21.96036199905249,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "WIKI_495",
+      "WIKI_65038",
+      "WIKI_46865",
+      "WIKI_71205",
+      "WIKI_60796",
+      "WIKI_59915",
+      "WIKI_16066",
+      "WIKI_23652",
+      "WIKI_44013",
+      "WIKI_8873",
+      "WIKI_46081",
+      "WIKI_2683",
+      "WIKI_92560",
+      "WIKI_73763",
+      "WIKI_34304",
+      "WIKI_10159",
+      "WIKI_66937",
+      "WIKI_39990",
+      "WIKI_101615",
+      "WIKI_55753",
+      "WIKI_52637",
+      "WIKI_5962",
+      "WIKI_36475",
+      "WIKI_24836",
+      "WIKI_82673",
+      "WIKI_26201",
+      "WIKI_12722",
+      "WIKI_47790",
+      "WIKI_71099",
+      "WIKI_54218",
+      "WIKI_38881",
+      "WIKI_61199",
+      "WIKI_59530",
+      "WIKI_28722",
+      "WIKI_38343",
+      "WIKI_100515",
+      "WIKI_71385",
+      "WIKI_1477",
+      "WIKI_24846",
+      "WIKI_38714",
+      "WIKI_47906",
+      "WIKI_95327",
+      "WIKI_44066",
+      "WIKI_9493",
+      "WIKI_49256",
+      "WIKI_24496",
+      "WIKI_55647",
+      "WIKI_59329",
+      "WIKI_13923",
+      "WIKI_71557"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.12641059399993537,
+    "latencias_repeticoes_segundos": [
+      0.12471317400002135,
+      0.12641059399993537,
+      0.1296097119999331,
+      0.12715571500007172,
+      0.12314782300006755
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q3",
+    "arquitetura": "vetorial",
+    "results": [
+      {
+        "document_id": "WIKI_2683",
+        "score": 0.7638116478919983,
+        "rank": 1
+      },
+      {
+        "document_id": "WIKI_495",
+        "score": 0.7354903817176819,
+        "rank": 2
+      },
+      {
+        "document_id": "WIKI_16066",
+        "score": 0.6956390738487244,
+        "rank": 3
+      },
+      {
+        "document_id": "WIKI_44013",
+        "score": 0.6812207102775574,
+        "rank": 4
+      },
+      {
+        "document_id": "WIKI_62119",
+        "score": 0.6726161241531372,
+        "rank": 5
+      },
+      {
+        "document_id": "WIKI_15372",
+        "score": 0.6687670350074768,
+        "rank": 6
+      },
+      {
+        "document_id": "WIKI_1027",
+        "score": 0.6604153513908386,
+        "rank": 7
+      },
+      {
+        "document_id": "WIKI_1111",
+        "score": 0.6466282606124878,
+        "rank": 8
+      },
+      {
+        "document_id": "WIKI_976",
+        "score": 0.6455449461936951,
+        "rank": 9
+      },
+      {
+        "document_id": "WIKI_50348",
+        "score": 0.645266592502594,
+        "rank": 10
+      },
+      {
+        "document_id": "WIKI_65908",
+        "score": 0.6153745651245117,
+        "rank": 11
+      },
+      {
+        "document_id": "WIKI_3822",
+        "score": 0.6029773950576782,
+        "rank": 12
+      },
+      {
+        "document_id": "WIKI_26724",
+        "score": 0.6009196043014526,
+        "rank": 13
+      },
+      {
+        "document_id": "WIKI_1809",
+        "score": 0.5965665578842163,
+        "rank": 14
+      },
+      {
+        "document_id": "WIKI_521",
+        "score": 0.590620756149292,
+        "rank": 15
+      },
+      {
+        "document_id": "WIKI_71205",
+        "score": 0.5877717733383179,
+        "rank": 16
+      },
+      {
+        "document_id": "WIKI_1467",
+        "score": 0.5771797299385071,
+        "rank": 17
+      },
+      {
+        "document_id": "WIKI_10709",
+        "score": 0.577003538608551,
+        "rank": 18
+      },
+      {
+        "document_id": "WIKI_71884",
+        "score": 0.576065182685852,
+        "rank": 19
+      },
+      {
+        "document_id": "WIKI_20589",
+        "score": 0.5727041959762573,
+        "rank": 20
+      },
+      {
+        "document_id": "WIKI_12699",
+        "score": 0.5725551843643188,
+        "rank": 21
+      },
+      {
+        "document_id": "WIKI_1176",
+        "score": 0.5716624855995178,
+        "rank": 22
+      },
+      {
+        "document_id": "WIKI_28672",
+        "score": 0.568409264087677,
+        "rank": 23
+      },
+      {
+        "document_id": "WIKI_7689",
+        "score": 0.5672981142997742,
+        "rank": 24
+      },
+      {
+        "document_id": "WIKI_49502",
+        "score": 0.5657681822776794,
+        "rank": 25
+      },
+      {
+        "document_id": "WIKI_55286",
+        "score": 0.5657668113708496,
+        "rank": 26
+      },
+      {
+        "document_id": "WIKI_21493",
+        "score": 0.5620901584625244,
+        "rank": 27
+      },
+      {
+        "document_id": "WIKI_55647",
+        "score": 0.558697521686554,
+        "rank": 28
+      },
+      {
+        "document_id": "WIKI_10400",
+        "score": 0.5572190880775452,
+        "rank": 29
+      },
+      {
+        "document_id": "WIKI_29266",
+        "score": 0.5553914904594421,
+        "rank": 30
+      },
+      {
+        "document_id": "WIKI_51556",
+        "score": 0.5550974607467651,
+        "rank": 31
+      },
+      {
+        "document_id": "WIKI_51090",
+        "score": 0.5513985753059387,
+        "rank": 32
+      },
+      {
+        "document_id": "WIKI_6731",
+        "score": 0.5505872964859009,
+        "rank": 33
+      },
+      {
+        "document_id": "WIKI_77166",
+        "score": 0.5496532917022705,
+        "rank": 34
+      },
+      {
+        "document_id": "WIKI_10294",
+        "score": 0.5471093058586121,
+        "rank": 35
+      },
+      {
+        "document_id": "WIKI_50789",
+        "score": 0.5469263792037964,
+        "rank": 36
+      },
+      {
+        "document_id": "WIKI_6106",
+        "score": 0.5445915460586548,
+        "rank": 37
+      },
+      {
+        "document_id": "WIKI_41787",
+        "score": 0.5445461869239807,
+        "rank": 38
+      },
+      {
+        "document_id": "WIKI_36475",
+        "score": 0.5443127751350403,
+        "rank": 39
+      },
+      {
+        "document_id": "WIKI_47603",
+        "score": 0.5408105850219727,
+        "rank": 40
+      },
+      {
+        "document_id": "WIKI_62755",
+        "score": 0.5403566956520081,
+        "rank": 41
+      },
+      {
+        "document_id": "WIKI_46625",
+        "score": 0.5400241613388062,
+        "rank": 42
+      },
+      {
+        "document_id": "WIKI_1234",
+        "score": 0.5397289395332336,
+        "rank": 43
+      },
+      {
+        "document_id": "WIKI_51844",
+        "score": 0.5385046005249023,
+        "rank": 44
+      },
+      {
+        "document_id": "WIKI_23889",
+        "score": 0.5376786589622498,
+        "rank": 45
+      },
+      {
+        "document_id": "WIKI_29226",
+        "score": 0.536910355091095,
+        "rank": 46
+      },
+      {
+        "document_id": "WIKI_23652",
+        "score": 0.5367701649665833,
+        "rank": 47
+      },
+      {
+        "document_id": "WIKI_50788",
+        "score": 0.536299467086792,
+        "rank": 48
+      },
+      {
+        "document_id": "WIKI_34304",
+        "score": 0.5357744693756104,
+        "rank": 49
+      },
+      {
+        "document_id": "WIKI_56168",
+        "score": 0.5352168083190918,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "WIKI_2683",
+      "WIKI_495",
+      "WIKI_16066",
+      "WIKI_44013",
+      "WIKI_62119",
+      "WIKI_15372",
+      "WIKI_1027",
+      "WIKI_1111",
+      "WIKI_976",
+      "WIKI_50348",
+      "WIKI_65908",
+      "WIKI_3822",
+      "WIKI_26724",
+      "WIKI_1809",
+      "WIKI_521",
+      "WIKI_71205",
+      "WIKI_1467",
+      "WIKI_10709",
+      "WIKI_71884",
+      "WIKI_20589",
+      "WIKI_12699",
+      "WIKI_1176",
+      "WIKI_28672",
+      "WIKI_7689",
+      "WIKI_49502",
+      "WIKI_55286",
+      "WIKI_21493",
+      "WIKI_55647",
+      "WIKI_10400",
+      "WIKI_29266",
+      "WIKI_51556",
+      "WIKI_51090",
+      "WIKI_6731",
+      "WIKI_77166",
+      "WIKI_10294",
+      "WIKI_50789",
+      "WIKI_6106",
+      "WIKI_41787",
+      "WIKI_36475",
+      "WIKI_47603",
+      "WIKI_62755",
+      "WIKI_46625",
+      "WIKI_1234",
+      "WIKI_51844",
+      "WIKI_23889",
+      "WIKI_29226",
+      "WIKI_23652",
+      "WIKI_50788",
+      "WIKI_34304",
+      "WIKI_56168"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.012475790000053166,
+    "latencias_repeticoes_segundos": [
+      0.012475790000053166,
+      0.012459281000019473,
+      0.01245196600007148,
+      0.01265971800000898,
+      0.01471496199997091
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q4",
+    "arquitetura": "booleano",
+    "document_ids": [
+      "WIKI_71997"
+    ],
+    "ranked": false,
+    "total_recuperado": 1,
+    "latencia_segundos": 1.0001310069999363,
+    "latencias_repeticoes_segundos": [
+      1.0001310069999363,
+      0.9820224390000476,
+      0.9381813299999067,
+      1.5765656949999993,
+      1.59715001699999
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q4",
+    "arquitetura": "bm25",
+    "results": [
+      {
+        "document_id": "WIKI_567",
+        "score": 28.29610168272594,
+        "rank": 1
+      },
+      {
+        "document_id": "WIKI_36108",
+        "score": 26.336577470703574,
+        "rank": 2
+      },
+      {
+        "document_id": "WIKI_70139",
+        "score": 22.905875497782002,
+        "rank": 3
+      },
+      {
+        "document_id": "WIKI_12286",
+        "score": 22.644975999001694,
+        "rank": 4
+      },
+      {
+        "document_id": "WIKI_26438",
+        "score": 22.315746759165886,
+        "rank": 5
+      },
+      {
+        "document_id": "WIKI_71997",
+        "score": 22.220988627349005,
+        "rank": 6
+      },
+      {
+        "document_id": "WIKI_102752",
+        "score": 21.175270768421687,
+        "rank": 7
+      },
+      {
+        "document_id": "WIKI_232",
+        "score": 20.207930174217065,
+        "rank": 8
+      },
+      {
+        "document_id": "WIKI_83685",
+        "score": 19.663373899935515,
+        "rank": 9
+      },
+      {
+        "document_id": "WIKI_11640",
+        "score": 19.581262005994255,
+        "rank": 10
+      },
+      {
+        "document_id": "WIKI_17029",
+        "score": 19.545478498309535,
+        "rank": 11
+      },
+      {
+        "document_id": "WIKI_48803",
+        "score": 19.484549016933485,
+        "rank": 12
+      },
+      {
+        "document_id": "WIKI_26838",
+        "score": 19.34621190755317,
+        "rank": 13
+      },
+      {
+        "document_id": "WIKI_73202",
+        "score": 19.255632706635822,
+        "rank": 14
+      },
+      {
+        "document_id": "WIKI_41182",
+        "score": 19.00455249060161,
+        "rank": 15
+      },
+      {
+        "document_id": "WIKI_45774",
+        "score": 18.894981678659782,
+        "rank": 16
+      },
+      {
+        "document_id": "WIKI_14934",
+        "score": 18.812314524836157,
+        "rank": 17
+      },
+      {
+        "document_id": "WIKI_6963",
+        "score": 18.77766498252565,
+        "rank": 18
+      },
+      {
+        "document_id": "WIKI_9202",
+        "score": 18.774142804845614,
+        "rank": 19
+      },
+      {
+        "document_id": "WIKI_9592",
+        "score": 18.71023742782762,
+        "rank": 20
+      },
+      {
+        "document_id": "WIKI_82722",
+        "score": 18.27471264721434,
+        "rank": 21
+      },
+      {
+        "document_id": "WIKI_9850",
+        "score": 18.24129704247641,
+        "rank": 22
+      },
+      {
+        "document_id": "WIKI_2864",
+        "score": 18.218626405864036,
+        "rank": 23
+      },
+      {
+        "document_id": "WIKI_75881",
+        "score": 18.131356129388585,
+        "rank": 24
+      },
+      {
+        "document_id": "WIKI_40068",
+        "score": 18.11885031597189,
+        "rank": 25
+      },
+      {
+        "document_id": "WIKI_76969",
+        "score": 18.099494972185756,
+        "rank": 26
+      },
+      {
+        "document_id": "WIKI_55584",
+        "score": 18.051759850960323,
+        "rank": 27
+      },
+      {
+        "document_id": "WIKI_39689",
+        "score": 17.908459254869047,
+        "rank": 28
+      },
+      {
+        "document_id": "WIKI_13939",
+        "score": 17.78770938869505,
+        "rank": 29
+      },
+      {
+        "document_id": "WIKI_36826",
+        "score": 17.763921020279113,
+        "rank": 30
+      },
+      {
+        "document_id": "WIKI_77201",
+        "score": 17.66119171253122,
+        "rank": 31
+      },
+      {
+        "document_id": "WIKI_23557",
+        "score": 17.618293074483603,
+        "rank": 32
+      },
+      {
+        "document_id": "WIKI_24517",
+        "score": 17.53355456511169,
+        "rank": 33
+      },
+      {
+        "document_id": "WIKI_9853",
+        "score": 17.463766724533787,
+        "rank": 34
+      },
+      {
+        "document_id": "WIKI_29274",
+        "score": 17.41867296286221,
+        "rank": 35
+      },
+      {
+        "document_id": "WIKI_14512",
+        "score": 17.398816204678802,
+        "rank": 36
+      },
+      {
+        "document_id": "WIKI_66884",
+        "score": 17.311114275202282,
+        "rank": 37
+      },
+      {
+        "document_id": "WIKI_12267",
+        "score": 17.291679382892486,
+        "rank": 38
+      },
+      {
+        "document_id": "WIKI_12265",
+        "score": 17.242176190021404,
+        "rank": 39
+      },
+      {
+        "document_id": "WIKI_57548",
+        "score": 17.17415315418828,
+        "rank": 40
+      },
+      {
+        "document_id": "WIKI_101831",
+        "score": 17.16343487998244,
+        "rank": 41
+      },
+      {
+        "document_id": "WIKI_18598",
+        "score": 16.97333213131895,
+        "rank": 42
+      },
+      {
+        "document_id": "WIKI_16747",
+        "score": 16.76404078323151,
+        "rank": 43
+      },
+      {
+        "document_id": "WIKI_92775",
+        "score": 16.6014298708915,
+        "rank": 44
+      },
+      {
+        "document_id": "WIKI_49257",
+        "score": 16.507335727512555,
+        "rank": 45
+      },
+      {
+        "document_id": "WIKI_64491",
+        "score": 16.50002427764128,
+        "rank": 46
+      },
+      {
+        "document_id": "WIKI_58852",
+        "score": 16.455113225027777,
+        "rank": 47
+      },
+      {
+        "document_id": "WIKI_72134",
+        "score": 16.446699706413384,
+        "rank": 48
+      },
+      {
+        "document_id": "WIKI_26122",
+        "score": 16.428775141196162,
+        "rank": 49
+      },
+      {
+        "document_id": "WIKI_14505",
+        "score": 16.369243967283868,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "WIKI_567",
+      "WIKI_36108",
+      "WIKI_70139",
+      "WIKI_12286",
+      "WIKI_26438",
+      "WIKI_71997",
+      "WIKI_102752",
+      "WIKI_232",
+      "WIKI_83685",
+      "WIKI_11640",
+      "WIKI_17029",
+      "WIKI_48803",
+      "WIKI_26838",
+      "WIKI_73202",
+      "WIKI_41182",
+      "WIKI_45774",
+      "WIKI_14934",
+      "WIKI_6963",
+      "WIKI_9202",
+      "WIKI_9592",
+      "WIKI_82722",
+      "WIKI_9850",
+      "WIKI_2864",
+      "WIKI_75881",
+      "WIKI_40068",
+      "WIKI_76969",
+      "WIKI_55584",
+      "WIKI_39689",
+      "WIKI_13939",
+      "WIKI_36826",
+      "WIKI_77201",
+      "WIKI_23557",
+      "WIKI_24517",
+      "WIKI_9853",
+      "WIKI_29274",
+      "WIKI_14512",
+      "WIKI_66884",
+      "WIKI_12267",
+      "WIKI_12265",
+      "WIKI_57548",
+      "WIKI_101831",
+      "WIKI_18598",
+      "WIKI_16747",
+      "WIKI_92775",
+      "WIKI_49257",
+      "WIKI_64491",
+      "WIKI_58852",
+      "WIKI_72134",
+      "WIKI_26122",
+      "WIKI_14505"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.17005309399996804,
+    "latencias_repeticoes_segundos": [
+      0.18155169699991802,
+      0.17334994399993775,
+      0.17005309399996804,
+      0.16855045900001642,
+      0.15601958299998842
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q4",
+    "arquitetura": "vetorial",
+    "results": [
+      {
+        "document_id": "WIKI_567",
+        "score": 0.6908760070800781,
+        "rank": 1
+      },
+      {
+        "document_id": "WIKI_12286",
+        "score": 0.6653218269348145,
+        "rank": 2
+      },
+      {
+        "document_id": "WIKI_12265",
+        "score": 0.6575797200202942,
+        "rank": 3
+      },
+      {
+        "document_id": "WIKI_232",
+        "score": 0.6527611017227173,
+        "rank": 4
+      },
+      {
+        "document_id": "WIKI_39689",
+        "score": 0.6477997899055481,
+        "rank": 5
+      },
+      {
+        "document_id": "WIKI_70139",
+        "score": 0.6445175409317017,
+        "rank": 6
+      },
+      {
+        "document_id": "WIKI_36108",
+        "score": 0.6368436217308044,
+        "rank": 7
+      },
+      {
+        "document_id": "WIKI_21957",
+        "score": 0.6043325066566467,
+        "rank": 8
+      },
+      {
+        "document_id": "WIKI_64460",
+        "score": 0.5986536741256714,
+        "rank": 9
+      },
+      {
+        "document_id": "WIKI_23249",
+        "score": 0.5888963341712952,
+        "rank": 10
+      },
+      {
+        "document_id": "WIKI_83685",
+        "score": 0.5881050825119019,
+        "rank": 11
+      },
+      {
+        "document_id": "WIKI_12267",
+        "score": 0.5858549475669861,
+        "rank": 12
+      },
+      {
+        "document_id": "WIKI_66950",
+        "score": 0.5827644467353821,
+        "rank": 13
+      },
+      {
+        "document_id": "WIKI_568",
+        "score": 0.5819581747055054,
+        "rank": 14
+      },
+      {
+        "document_id": "WIKI_60447",
+        "score": 0.5673637390136719,
+        "rank": 15
+      },
+      {
+        "document_id": "WIKI_26813",
+        "score": 0.5593250393867493,
+        "rank": 16
+      },
+      {
+        "document_id": "WIKI_25064",
+        "score": 0.5591826438903809,
+        "rank": 17
+      },
+      {
+        "document_id": "WIKI_96425",
+        "score": 0.5563691258430481,
+        "rank": 18
+      },
+      {
+        "document_id": "WIKI_55888",
+        "score": 0.553740918636322,
+        "rank": 19
+      },
+      {
+        "document_id": "WIKI_68890",
+        "score": 0.5534361600875854,
+        "rank": 20
+      },
+      {
+        "document_id": "WIKI_9202",
+        "score": 0.5521848201751709,
+        "rank": 21
+      },
+      {
+        "document_id": "WIKI_14505",
+        "score": 0.5519946217536926,
+        "rank": 22
+      },
+      {
+        "document_id": "WIKI_80182",
+        "score": 0.5433502793312073,
+        "rank": 23
+      },
+      {
+        "document_id": "WIKI_46841",
+        "score": 0.5411456227302551,
+        "rank": 24
+      },
+      {
+        "document_id": "WIKI_55584",
+        "score": 0.5401454567909241,
+        "rank": 25
+      },
+      {
+        "document_id": "WIKI_34410",
+        "score": 0.5379605889320374,
+        "rank": 26
+      },
+      {
+        "document_id": "WIKI_92554",
+        "score": 0.5361253619194031,
+        "rank": 27
+      },
+      {
+        "document_id": "WIKI_29607",
+        "score": 0.5334627628326416,
+        "rank": 28
+      },
+      {
+        "document_id": "WIKI_796",
+        "score": 0.5319898724555969,
+        "rank": 29
+      },
+      {
+        "document_id": "WIKI_70481",
+        "score": 0.530659556388855,
+        "rank": 30
+      },
+      {
+        "document_id": "WIKI_65465",
+        "score": 0.5303617715835571,
+        "rank": 31
+      },
+      {
+        "document_id": "WIKI_29916",
+        "score": 0.5277465581893921,
+        "rank": 32
+      },
+      {
+        "document_id": "WIKI_25425",
+        "score": 0.5270053148269653,
+        "rank": 33
+      },
+      {
+        "document_id": "WIKI_23584",
+        "score": 0.5251224040985107,
+        "rank": 34
+      },
+      {
+        "document_id": "WIKI_45289",
+        "score": 0.5238507986068726,
+        "rank": 35
+      },
+      {
+        "document_id": "WIKI_43074",
+        "score": 0.5233873724937439,
+        "rank": 36
+      },
+      {
+        "document_id": "WIKI_90512",
+        "score": 0.5218376517295837,
+        "rank": 37
+      },
+      {
+        "document_id": "WIKI_29753",
+        "score": 0.521685779094696,
+        "rank": 38
+      },
+      {
+        "document_id": "WIKI_75881",
+        "score": 0.5193676948547363,
+        "rank": 39
+      },
+      {
+        "document_id": "WIKI_44753",
+        "score": 0.5192922949790955,
+        "rank": 40
+      },
+      {
+        "document_id": "WIKI_24096",
+        "score": 0.5160965323448181,
+        "rank": 41
+      },
+      {
+        "document_id": "WIKI_13939",
+        "score": 0.5133216381072998,
+        "rank": 42
+      },
+      {
+        "document_id": "WIKI_51226",
+        "score": 0.5107268691062927,
+        "rank": 43
+      },
+      {
+        "document_id": "WIKI_36368",
+        "score": 0.508890688419342,
+        "rank": 44
+      },
+      {
+        "document_id": "WIKI_23590",
+        "score": 0.507999837398529,
+        "rank": 45
+      },
+      {
+        "document_id": "WIKI_71715",
+        "score": 0.5059843063354492,
+        "rank": 46
+      },
+      {
+        "document_id": "WIKI_13052",
+        "score": 0.5055151581764221,
+        "rank": 47
+      },
+      {
+        "document_id": "WIKI_26838",
+        "score": 0.502418577671051,
+        "rank": 48
+      },
+      {
+        "document_id": "WIKI_43566",
+        "score": 0.5011508464813232,
+        "rank": 49
+      },
+      {
+        "document_id": "WIKI_64821",
+        "score": 0.49857261776924133,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "WIKI_567",
+      "WIKI_12286",
+      "WIKI_12265",
+      "WIKI_232",
+      "WIKI_39689",
+      "WIKI_70139",
+      "WIKI_36108",
+      "WIKI_21957",
+      "WIKI_64460",
+      "WIKI_23249",
+      "WIKI_83685",
+      "WIKI_12267",
+      "WIKI_66950",
+      "WIKI_568",
+      "WIKI_60447",
+      "WIKI_26813",
+      "WIKI_25064",
+      "WIKI_96425",
+      "WIKI_55888",
+      "WIKI_68890",
+      "WIKI_9202",
+      "WIKI_14505",
+      "WIKI_80182",
+      "WIKI_46841",
+      "WIKI_55584",
+      "WIKI_34410",
+      "WIKI_92554",
+      "WIKI_29607",
+      "WIKI_796",
+      "WIKI_70481",
+      "WIKI_65465",
+      "WIKI_29916",
+      "WIKI_25425",
+      "WIKI_23584",
+      "WIKI_45289",
+      "WIKI_43074",
+      "WIKI_90512",
+      "WIKI_29753",
+      "WIKI_75881",
+      "WIKI_44753",
+      "WIKI_24096",
+      "WIKI_13939",
+      "WIKI_51226",
+      "WIKI_36368",
+      "WIKI_23590",
+      "WIKI_71715",
+      "WIKI_13052",
+      "WIKI_26838",
+      "WIKI_43566",
+      "WIKI_64821"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.013009534000048006,
+    "latencias_repeticoes_segundos": [
+      0.012886507999951391,
+      0.012935014999925443,
+      0.013009534000048006,
+      0.014689340000018092,
+      0.013088926000023093
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q5",
+    "arquitetura": "booleano",
+    "document_ids": [
+      "WIKI_748",
+      "WIKI_762",
+      "WIKI_7642",
+      "WIKI_56286"
+    ],
+    "ranked": false,
+    "total_recuperado": 4,
+    "latencia_segundos": 1.1387419299999237,
+    "latencias_repeticoes_segundos": [
+      1.1331009900000026,
+      1.1476810579999892,
+      1.1387419299999237,
+      1.151448135999999,
+      1.1330277019999357
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q5",
+    "arquitetura": "bm25",
+    "results": [
+      {
+        "document_id": "WIKI_56286",
+        "score": 38.54989255930398,
+        "rank": 1
+      },
+      {
+        "document_id": "WIKI_30378",
+        "score": 35.318168565391986,
+        "rank": 2
+      },
+      {
+        "document_id": "WIKI_70310",
+        "score": 33.90234691840257,
+        "rank": 3
+      },
+      {
+        "document_id": "WIKI_30235",
+        "score": 33.09354463671207,
+        "rank": 4
+      },
+      {
+        "document_id": "WIKI_90433",
+        "score": 31.943578852771157,
+        "rank": 5
+      },
+      {
+        "document_id": "WIKI_53886",
+        "score": 31.53945774646412,
+        "rank": 6
+      },
+      {
+        "document_id": "WIKI_52721",
+        "score": 30.77964515153509,
+        "rank": 7
+      },
+      {
+        "document_id": "WIKI_52116",
+        "score": 30.69320791473951,
+        "rank": 8
+      },
+      {
+        "document_id": "WIKI_13306",
+        "score": 30.638191429133755,
+        "rank": 9
+      },
+      {
+        "document_id": "WIKI_42620",
+        "score": 30.22239499056603,
+        "rank": 10
+      },
+      {
+        "document_id": "WIKI_30155",
+        "score": 29.487952776652648,
+        "rank": 11
+      },
+      {
+        "document_id": "WIKI_76957",
+        "score": 29.27023426778201,
+        "rank": 12
+      },
+      {
+        "document_id": "WIKI_81789",
+        "score": 29.1924298651384,
+        "rank": 13
+      },
+      {
+        "document_id": "WIKI_25885",
+        "score": 28.695264154591726,
+        "rank": 14
+      },
+      {
+        "document_id": "WIKI_762",
+        "score": 28.67445562549618,
+        "rank": 15
+      },
+      {
+        "document_id": "WIKI_38674",
+        "score": 28.668150190022466,
+        "rank": 16
+      },
+      {
+        "document_id": "WIKI_33860",
+        "score": 28.564361878781856,
+        "rank": 17
+      },
+      {
+        "document_id": "WIKI_33038",
+        "score": 27.78014909099034,
+        "rank": 18
+      },
+      {
+        "document_id": "WIKI_45082",
+        "score": 27.695716867750477,
+        "rank": 19
+      },
+      {
+        "document_id": "WIKI_56231",
+        "score": 27.526466886253168,
+        "rank": 20
+      },
+      {
+        "document_id": "WIKI_69969",
+        "score": 27.21864878787472,
+        "rank": 21
+      },
+      {
+        "document_id": "WIKI_30106",
+        "score": 27.154407363632842,
+        "rank": 22
+      },
+      {
+        "document_id": "WIKI_52692",
+        "score": 27.126957009682474,
+        "rank": 23
+      },
+      {
+        "document_id": "WIKI_44070",
+        "score": 26.902654850173754,
+        "rank": 24
+      },
+      {
+        "document_id": "WIKI_30407",
+        "score": 26.891278358874676,
+        "rank": 25
+      },
+      {
+        "document_id": "WIKI_3618",
+        "score": 26.86560818695816,
+        "rank": 26
+      },
+      {
+        "document_id": "WIKI_73795",
+        "score": 26.70856922465819,
+        "rank": 27
+      },
+      {
+        "document_id": "WIKI_23012",
+        "score": 26.557732337499772,
+        "rank": 28
+      },
+      {
+        "document_id": "WIKI_59310",
+        "score": 26.486037718049282,
+        "rank": 29
+      },
+      {
+        "document_id": "WIKI_35175",
+        "score": 26.41195801924728,
+        "rank": 30
+      },
+      {
+        "document_id": "WIKI_100797",
+        "score": 26.350273006562848,
+        "rank": 31
+      },
+      {
+        "document_id": "WIKI_47043",
+        "score": 26.31424624922429,
+        "rank": 32
+      },
+      {
+        "document_id": "WIKI_49172",
+        "score": 26.278807142255744,
+        "rank": 33
+      },
+      {
+        "document_id": "WIKI_29686",
+        "score": 26.251915749513202,
+        "rank": 34
+      },
+      {
+        "document_id": "WIKI_4865",
+        "score": 26.20450016877262,
+        "rank": 35
+      },
+      {
+        "document_id": "WIKI_28637",
+        "score": 26.166977727827827,
+        "rank": 36
+      },
+      {
+        "document_id": "WIKI_86055",
+        "score": 26.15013402154115,
+        "rank": 37
+      },
+      {
+        "document_id": "WIKI_61040",
+        "score": 26.058294042535074,
+        "rank": 38
+      },
+      {
+        "document_id": "WIKI_35949",
+        "score": 25.936687624192448,
+        "rank": 39
+      },
+      {
+        "document_id": "WIKI_65148",
+        "score": 25.905510793029926,
+        "rank": 40
+      },
+      {
+        "document_id": "WIKI_12722",
+        "score": 25.843832321914775,
+        "rank": 41
+      },
+      {
+        "document_id": "WIKI_94203",
+        "score": 25.75057744867029,
+        "rank": 42
+      },
+      {
+        "document_id": "WIKI_60842",
+        "score": 25.637220534589297,
+        "rank": 43
+      },
+      {
+        "document_id": "WIKI_43393",
+        "score": 25.421351372737654,
+        "rank": 44
+      },
+      {
+        "document_id": "WIKI_34607",
+        "score": 25.217122851100875,
+        "rank": 45
+      },
+      {
+        "document_id": "WIKI_101620",
+        "score": 25.166597382991764,
+        "rank": 46
+      },
+      {
+        "document_id": "WIKI_51377",
+        "score": 25.113590983456415,
+        "rank": 47
+      },
+      {
+        "document_id": "WIKI_80319",
+        "score": 25.065498051573602,
+        "rank": 48
+      },
+      {
+        "document_id": "WIKI_24072",
+        "score": 25.055644247121382,
+        "rank": 49
+      },
+      {
+        "document_id": "WIKI_748",
+        "score": 25.040773963057084,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "WIKI_56286",
+      "WIKI_30378",
+      "WIKI_70310",
+      "WIKI_30235",
+      "WIKI_90433",
+      "WIKI_53886",
+      "WIKI_52721",
+      "WIKI_52116",
+      "WIKI_13306",
+      "WIKI_42620",
+      "WIKI_30155",
+      "WIKI_76957",
+      "WIKI_81789",
+      "WIKI_25885",
+      "WIKI_762",
+      "WIKI_38674",
+      "WIKI_33860",
+      "WIKI_33038",
+      "WIKI_45082",
+      "WIKI_56231",
+      "WIKI_69969",
+      "WIKI_30106",
+      "WIKI_52692",
+      "WIKI_44070",
+      "WIKI_30407",
+      "WIKI_3618",
+      "WIKI_73795",
+      "WIKI_23012",
+      "WIKI_59310",
+      "WIKI_35175",
+      "WIKI_100797",
+      "WIKI_47043",
+      "WIKI_49172",
+      "WIKI_29686",
+      "WIKI_4865",
+      "WIKI_28637",
+      "WIKI_86055",
+      "WIKI_61040",
+      "WIKI_35949",
+      "WIKI_65148",
+      "WIKI_12722",
+      "WIKI_94203",
+      "WIKI_60842",
+      "WIKI_43393",
+      "WIKI_34607",
+      "WIKI_101620",
+      "WIKI_51377",
+      "WIKI_80319",
+      "WIKI_24072",
+      "WIKI_748"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.12439402100005736,
+    "latencias_repeticoes_segundos": [
+      0.12702872399995613,
+      0.1314743149999913,
+      0.12125859400009631,
+      0.11608742700002495,
+      0.12439402100005736
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  },
+  {
+    "base": "wikipedia",
+    "query_id": "Q5",
+    "arquitetura": "vetorial",
+    "results": [
+      {
+        "document_id": "WIKI_52721",
+        "score": 0.6673113703727722,
+        "rank": 1
+      },
+      {
+        "document_id": "WIKI_6095",
+        "score": 0.645155668258667,
+        "rank": 2
+      },
+      {
+        "document_id": "WIKI_19508",
+        "score": 0.5918145179748535,
+        "rank": 3
+      },
+      {
+        "document_id": "WIKI_70310",
+        "score": 0.5570216178894043,
+        "rank": 4
+      },
+      {
+        "document_id": "WIKI_96563",
+        "score": 0.5546271800994873,
+        "rank": 5
+      },
+      {
+        "document_id": "WIKI_90433",
+        "score": 0.5533778071403503,
+        "rank": 6
+      },
+      {
+        "document_id": "WIKI_80278",
+        "score": 0.5522144436836243,
+        "rank": 7
+      },
+      {
+        "document_id": "WIKI_15175",
+        "score": 0.5495482683181763,
+        "rank": 8
+      },
+      {
+        "document_id": "WIKI_762",
+        "score": 0.5421149730682373,
+        "rank": 9
+      },
+      {
+        "document_id": "WIKI_100797",
+        "score": 0.5175025463104248,
+        "rank": 10
+      },
+      {
+        "document_id": "WIKI_43798",
+        "score": 0.5089020729064941,
+        "rank": 11
+      },
+      {
+        "document_id": "WIKI_13306",
+        "score": 0.4994848966598511,
+        "rank": 12
+      },
+      {
+        "document_id": "WIKI_22155",
+        "score": 0.49924236536026,
+        "rank": 13
+      },
+      {
+        "document_id": "WIKI_28637",
+        "score": 0.4962044060230255,
+        "rank": 14
+      },
+      {
+        "document_id": "WIKI_69247",
+        "score": 0.4896279573440552,
+        "rank": 15
+      },
+      {
+        "document_id": "WIKI_48056",
+        "score": 0.4835549294948578,
+        "rank": 16
+      },
+      {
+        "document_id": "WIKI_23012",
+        "score": 0.4773467481136322,
+        "rank": 17
+      },
+      {
+        "document_id": "WIKI_74062",
+        "score": 0.4760650396347046,
+        "rank": 18
+      },
+      {
+        "document_id": "WIKI_41190",
+        "score": 0.4717068672180176,
+        "rank": 19
+      },
+      {
+        "document_id": "WIKI_58718",
+        "score": 0.46492958068847656,
+        "rank": 20
+      },
+      {
+        "document_id": "WIKI_53886",
+        "score": 0.46130695939064026,
+        "rank": 21
+      },
+      {
+        "document_id": "WIKI_13305",
+        "score": 0.4608491361141205,
+        "rank": 22
+      },
+      {
+        "document_id": "WIKI_76957",
+        "score": 0.4590371251106262,
+        "rank": 23
+      },
+      {
+        "document_id": "WIKI_72847",
+        "score": 0.45836275815963745,
+        "rank": 24
+      },
+      {
+        "document_id": "WIKI_74760",
+        "score": 0.4581971764564514,
+        "rank": 25
+      },
+      {
+        "document_id": "WIKI_81789",
+        "score": 0.45723962783813477,
+        "rank": 26
+      },
+      {
+        "document_id": "WIKI_101081",
+        "score": 0.45506322383880615,
+        "rank": 27
+      },
+      {
+        "document_id": "WIKI_26848",
+        "score": 0.45423710346221924,
+        "rank": 28
+      },
+      {
+        "document_id": "WIKI_32126",
+        "score": 0.44464898109436035,
+        "rank": 29
+      },
+      {
+        "document_id": "WIKI_38674",
+        "score": 0.4423972964286804,
+        "rank": 30
+      },
+      {
+        "document_id": "WIKI_1404",
+        "score": 0.4368906617164612,
+        "rank": 31
+      },
+      {
+        "document_id": "WIKI_2618",
+        "score": 0.4354066550731659,
+        "rank": 32
+      },
+      {
+        "document_id": "WIKI_49588",
+        "score": 0.43175339698791504,
+        "rank": 33
+      },
+      {
+        "document_id": "WIKI_54932",
+        "score": 0.430608332157135,
+        "rank": 34
+      },
+      {
+        "document_id": "WIKI_15022",
+        "score": 0.42758166790008545,
+        "rank": 35
+      },
+      {
+        "document_id": "WIKI_16034",
+        "score": 0.42481985688209534,
+        "rank": 36
+      },
+      {
+        "document_id": "WIKI_92982",
+        "score": 0.42197731137275696,
+        "rank": 37
+      },
+      {
+        "document_id": "WIKI_35761",
+        "score": 0.41598406434059143,
+        "rank": 38
+      },
+      {
+        "document_id": "WIKI_61709",
+        "score": 0.41026246547698975,
+        "rank": 39
+      },
+      {
+        "document_id": "WIKI_80319",
+        "score": 0.4097171127796173,
+        "rank": 40
+      },
+      {
+        "document_id": "WIKI_22173",
+        "score": 0.4086289405822754,
+        "rank": 41
+      },
+      {
+        "document_id": "WIKI_81059",
+        "score": 0.4065399467945099,
+        "rank": 42
+      },
+      {
+        "document_id": "WIKI_16478",
+        "score": 0.40475404262542725,
+        "rank": 43
+      },
+      {
+        "document_id": "WIKI_59310",
+        "score": 0.4028109908103943,
+        "rank": 44
+      },
+      {
+        "document_id": "WIKI_56286",
+        "score": 0.4017520248889923,
+        "rank": 45
+      },
+      {
+        "document_id": "WIKI_21900",
+        "score": 0.39627349376678467,
+        "rank": 46
+      },
+      {
+        "document_id": "WIKI_12853",
+        "score": 0.38701075315475464,
+        "rank": 47
+      },
+      {
+        "document_id": "WIKI_82392",
+        "score": 0.382687509059906,
+        "rank": 48
+      },
+      {
+        "document_id": "WIKI_21901",
+        "score": 0.3824978172779083,
+        "rank": 49
+      },
+      {
+        "document_id": "WIKI_92408",
+        "score": 0.38157710433006287,
+        "rank": 50
+      }
+    ],
+    "document_ids": [
+      "WIKI_52721",
+      "WIKI_6095",
+      "WIKI_19508",
+      "WIKI_70310",
+      "WIKI_96563",
+      "WIKI_90433",
+      "WIKI_80278",
+      "WIKI_15175",
+      "WIKI_762",
+      "WIKI_100797",
+      "WIKI_43798",
+      "WIKI_13306",
+      "WIKI_22155",
+      "WIKI_28637",
+      "WIKI_69247",
+      "WIKI_48056",
+      "WIKI_23012",
+      "WIKI_74062",
+      "WIKI_41190",
+      "WIKI_58718",
+      "WIKI_53886",
+      "WIKI_13305",
+      "WIKI_76957",
+      "WIKI_72847",
+      "WIKI_74760",
+      "WIKI_81789",
+      "WIKI_101081",
+      "WIKI_26848",
+      "WIKI_32126",
+      "WIKI_38674",
+      "WIKI_1404",
+      "WIKI_2618",
+      "WIKI_49588",
+      "WIKI_54932",
+      "WIKI_15022",
+      "WIKI_16034",
+      "WIKI_92982",
+      "WIKI_35761",
+      "WIKI_61709",
+      "WIKI_80319",
+      "WIKI_22173",
+      "WIKI_81059",
+      "WIKI_16478",
+      "WIKI_59310",
+      "WIKI_56286",
+      "WIKI_21900",
+      "WIKI_12853",
+      "WIKI_82392",
+      "WIKI_21901",
+      "WIKI_92408"
+    ],
+    "ranked": true,
+    "total_recuperado": 50,
+    "latencia_segundos": 0.013603014999944207,
+    "latencias_repeticoes_segundos": [
+      0.013789932000008776,
+      0.01374539599999025,
+      0.01344030500001736,
+      0.013535485999909724,
+      0.013603014999944207
+    ],
+    "repeticoes_medicao": 5,
+    "aquecimentos": 1
+  }
+]

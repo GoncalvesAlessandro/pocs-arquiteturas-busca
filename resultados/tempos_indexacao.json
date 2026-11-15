@@ -1,0 +1,17 @@
+{
+  "bm25_segundos": {
+    "constituicao_federal": 0.1631963290000158,
+    "wikipedia": 7.94431651900004
+  },
+  "vetorial_embeddings_segundos": {
+    "constituicao_federal": 5.70141967099994,
+    "wikipedia": 111.38164036700005
+  },
+  "modelo_vetorial": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "protocolo_medicao": {
+    "aquecimentos_por_consulta": 1,
+    "repeticoes_oficiais_por_consulta": 5,
+    "agregacao_latencia": "mediana",
+    "sincronizacao_cuda": "antes e depois das medições vetoriais e da geração dos embeddings, quando CUDA estiver disponível"
+  }
+}
